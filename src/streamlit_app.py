@@ -32,8 +32,8 @@ def load_data(data_path: str):
     df_covid_day = covid_global.drop(columns=['Province/State', 'Lat', 'Long']).melt(id_vars=['Country/Region'], var_name='Date', value_name='Confirmed')
     df_covid_day['Date'] = pd.to_datetime(df_covid_day['Date'], format='%m/%d/%y')
     df_covid_month = df_covid_day.groupby(['Country/Region', pd.Grouper(key='Date', freq='ME')]).sum().reset_index().rename(columns={'Date': 'month'})
-    df_covid_month['month'] = df_covid_month['month'].dt.strftime('%Y%m').astype(int)
-    df_end['month'] = df_end['month'].astype(int)
+    df_covid_month['month'] = df_covid_month['month'].dt.strftime('%Y-%m')
+    df_end['month'] = pd.to_datetime(df_end['month'].astype(str), format='%Y%m').dt.strftime('%Y-%m')
     
     df_US = df_covid_month[df_covid_month['Country/Region'] == 'US'].merge(
         df_end[df_end['end_country'] == 'US'], 
