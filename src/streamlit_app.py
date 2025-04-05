@@ -43,7 +43,7 @@ def load_data(data_path: str):
         columns={'Confirmed': 'cases', 'Country/Region': 'country'}
     ).drop(columns=['end_country'])
     
-    return df_US, df_end
+    return df_US, df_end, df_covid_month
 
 def create_time_series_plot(df_US):
     """
@@ -112,34 +112,108 @@ def create_time_series_plot(df_US):
     
     return fig
 
-def create_choropleth_map(df_end):
+def create_choropleth_maps(df_end, df_covid, start_date, end_date):
     """
-    Create a choropleth map showing global flight volumes.
+    Create side-by-side choropleth maps showing global flight volumes and COVID cases.
     
     Args:
         df_end (pd.DataFrame): DataFrame containing global flight data
+        df_covid (pd.DataFrame): DataFrame containing global COVID data
+        start_date (str): Start date for filtering
+        end_date (str): End date for filtering
         
     Returns:
-        go.Figure: Plotly figure object containing the choropleth map
+        go.Figure: Plotly figure object containing the choropleth maps
     """
-    fig_map = px.choropleth(
-        df_end,
-        locations='end_country',
-        locationmode='country names',
-        color='flights',
-        hover_name='end_country',
-        color_continuous_scale='Viridis',
-        title='Flight Volume by Destination Country'
+    # Filter flight data based on date range
+    df_flights_filtered = df_end[
+        (df_end['month'] >= start_date) & 
+        (df_end['month'] <= end_date)
+    ].groupby('end_country')['flights'].sum().reset_index()
+    
+    # Filter and prepare COVID data
+    df_covid_filtered = df_covid[
+        (df_covid['month'] >= start_date) & 
+        (df_covid['month'] <= end_date)
+    ].groupby('Country/Region')['Confirmed'].max().reset_index()
+    
+    # Create subplot figure with two separate subplots
+    fig = go.Figure()
+    
+    # Add flight volume map
+    fig.add_trace(
+        go.Choropleth(
+            locations=df_flights_filtered['end_country'],
+            z=df_flights_filtered['flights'],
+            locationmode='country names',
+            colorscale='Viridis',
+            name='Flight Volume',
+            colorbar=dict(
+                title='Flights',
+                x=0.46
+            ),
+            geo='geo'
+        )
     )
     
-    fig_map.update_layout(
-        title_x=0.5,
-        geo=dict(showframe=False, showcoastlines=True),
-        width=800,
-        height=500
+    # Add COVID cases map
+    fig.add_trace(
+        go.Choropleth(
+            locations=df_covid_filtered['Country/Region'],
+            z=df_covid_filtered['Confirmed'],
+            locationmode='country names',
+            colorscale='Reds',
+            name='COVID Cases',
+            colorbar=dict(
+                title='Cases',
+                x=0.98
+            ),
+            geo='geo2'
+        )
     )
     
-    return fig_map
+    # Update layout with two separate geo subplots
+    fig.update_layout(
+        geo=dict(
+            scope='world',
+            showframe=False,
+            showcoastlines=True,
+            projection_type='equirectangular',
+            domain=dict(x=[0, 0.48], y=[0, 1])
+        ),
+        geo2=dict(
+            scope='world',
+            showframe=False,
+            showcoastlines=True,
+            projection_type='equirectangular',
+            domain=dict(x=[0.52, 1], y=[0, 1])
+        ),
+        width=1200,
+        height=500,
+        autosize=False,
+        annotations=[
+            dict(
+                text=f'Flight Volume by Destination Country ({start_date} to {end_date})',
+                showarrow=False,
+                x=0.05,
+                y=1.1,
+                xref='paper',
+                yref='paper',
+                font=dict(size=14)
+            ),
+            dict(
+                text=f'COVID Cases by Country ({start_date} to {end_date})',
+                showarrow=False,
+                x=0.725,
+                y=1.1,
+                xref='paper',
+                yref='paper',
+                font=dict(size=14)
+            )
+        ]
+    )
+    
+    return fig
 
 def calculate_correlation(df_US):
     """
@@ -169,13 +243,13 @@ def main(data_path: str):
     )
     
     # Load data
-    df_US, df_end = load_data(data_path)
+    df_US, df_end, df_covid_month = load_data(data_path)
     
     # Main title
     st.title('COVID-19 Cases and Flight Volume Analysis')
     
     # Create two tabs
-    tab1, tab2 = st.tabs(['US Time Series', 'Global Flight Volume'])
+    tab1, tab2 = st.tabs(['US Time Series', 'Global Comparison'])
     
     with tab1:
         st.header('US COVID Cases vs Flight Volume Over Time')
@@ -198,17 +272,29 @@ def main(data_path: str):
         """)
     
     with tab2:
-        st.header('Global Flight Volume by Country')
+        st.header('Global Flight Volume and COVID Cases by Country')
         
-        # Create and display choropleth map
-        fig_map = create_choropleth_map(df_end)
-        st.plotly_chart(fig_map)
+        # Add timeline selector
+        all_months = sorted(df_end['month'].unique())
+        start_idx, end_idx = st.select_slider(
+            'Select Date Range',
+            options=range(len(all_months)),
+            value=(0, len(all_months)-1),
+            format_func=lambda x: all_months[x]
+        )
+        
+        start_date = all_months[start_idx]
+        end_date = all_months[end_idx]
+            
+        # Create and display choropleth maps
+        fig_maps = create_choropleth_maps(df_end, df_covid_month, start_date, end_date)
+        st.plotly_chart(fig_maps, use_container_width=True)
     
     # Add data source information
     st.markdown("""
     **Data Sources:**
-    - COVID-19 case data from Johns Hopkins CSSE
-    - Flight volume data from international aviation records
+    - [COVID-19 case data from Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+    - [Flight volume data from international aviation records](https://doi.org/10.5281/zenodo.7923702)
     """)
 
 if __name__ == "__main__":
