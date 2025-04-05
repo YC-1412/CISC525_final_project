@@ -3,7 +3,7 @@
 Clone the entire repo including the data, and run the below command in terminal
 ```
 streamlit run streamlit_app.py -- --data_path <path_to_data_folder>
-``
+```
 Example
 ```
 streamlit run streamlit_app.py -- --data_path ./data
