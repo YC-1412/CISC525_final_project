@@ -63,7 +63,8 @@ def create_time_series_plot(df_US):
             x=df_US['month'], 
             y=df_US['cases'], 
             name='COVID Cases',
-            line=dict(color='#FF4B4B', width=3)
+            line=dict(color='#FF4B4B', width=3),
+            yaxis='y'
         )
     )
 
@@ -73,17 +74,31 @@ def create_time_series_plot(df_US):
             x=df_US['month'], 
             y=df_US['flights'], 
             name='Flight Volume',
-            line=dict(color='#1F77B4', width=3)
+            line=dict(color='#1F77B4', width=3),
+            yaxis='y2'
         )
     )
 
-    # Update layout with improved styling
+    # Update layout with improved styling and secondary y-axis
     fig.update_layout(
         xaxis=dict(
             title='Month',
             tickangle=45
         ),
-        yaxis=dict(title='Count'),
+        yaxis=dict(
+            title='COVID Cases',
+            titlefont=dict(color='#FF4B4B'),
+            tickfont=dict(color='#FF4B4B')
+        ),
+        yaxis2=dict(
+            title='Flight Volume',
+            titlefont=dict(color='#1F77B4'),
+            tickfont=dict(color='#1F77B4'),
+            anchor='x',
+            overlaying='y',
+            side='right',
+            showgrid=False
+        ),
         title='US COVID Cases and Flight Volume Trends',
         hovermode='x unified',
         plot_bgcolor='white',
