@@ -1,16 +1,15 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-arm64
-ipykernel=6.29.3=pyh3cd1d5f_0
-ipython=8.12.3=pypi_0
-jupyterlab=4.2.1=pyhd8ed1ab_0
-notebook=7.2.0=pyhd8ed1ab_0
-numpy=1.26.4=py312h7f4fdc5_0
-pandas=2.2.1=py312hd77ebd4_0
-plotly=5.19.0=py312h989b03a_0
-python=3.12.3=h4a7b5fc_0_cpython
-scikit-learn=1.4.2=py312hd77ebd4_1
-scipy=1.13.0=py312hfa28a95_0
-seaborn=0.12.2=py312hca03da5_0
-streamlit=1.44.1=py312hca03da5_0
-tensorflow=2.16.1=cpu_py312h4d8845c_0
+ipykernel=6.29.3
+ipython=8.12.3
+jupyterlab=4.2.1
+notebook=7.2.0
+numpy=1.26.4
+pandas=2.2.1
+plotly=5.19.0
+python=3.12.3
+scikit-learn=1.4.2
+scipy=1.13.0
+seaborn=0.12.2
+streamlit=1.44.1

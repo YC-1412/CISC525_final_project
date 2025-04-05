@@ -1,3 +1,14 @@
+## Instruction
+### To run Streamlit app locally
+Clone the entire repo including the data, and run the below command in terminal
+```
+streamlit run streamlit_app.py -- --data_path <path_to_data_folder>
+``
+Example
+```
+streamlit run streamlit_app.py -- --data_path ./data
+```
+
 ## Data Source
 - Plane data
     - Xavier Olive, Martin Strohmeier, & Jannis Lübbe. (2023). Crowdsourced air traffic data from The OpenSky Network 2020 (v23.00) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7923702
