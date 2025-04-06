@@ -1,0 +1,901 @@
+year_month,origin_country,origin_country_code,destination_country,destination_country_code,flight_count
+2020-12,United Arab Emirates,AE,United States,US,6
+2021-01,United Arab Emirates,AE,United States,US,169
+2021-02,United Arab Emirates,AE,United States,US,167
+2021-03,United Arab Emirates,AE,United States,US,230
+2021-04,United Arab Emirates,AE,United States,US,220
+2021-05,United Arab Emirates,AE,United States,US,216
+2021-06,United Arab Emirates,AE,United States,US,232
+2021-07,United Arab Emirates,AE,United States,US,213
+2021-08,United Arab Emirates,AE,United States,US,263
+2021-09,United Arab Emirates,AE,United States,US,272
+2021-10,United Arab Emirates,AE,United States,US,289
+2021-11,United Arab Emirates,AE,United States,US,51
+2021-12,United Arab Emirates,AE,United States,US,49
+2021-03,Argentina,AR,United States,US,42
+2021-04,Argentina,AR,United States,US,18
+2021-05,Argentina,AR,United States,US,12
+2021-07,Argentina,AR,United States,US,4
+2021-09,Argentina,AR,United States,US,104
+2021-10,Argentina,AR,United States,US,178
+2021-11,Argentina,AR,United States,US,236
+2021-12,Argentina,AR,United States,US,265
+2020-12,Austria,AT,United States,US,2
+2021-01,Austria,AT,United States,US,27
+2021-02,Austria,AT,United States,US,15
+2021-03,Austria,AT,United States,US,23
+2021-04,Austria,AT,United States,US,44
+2021-05,Austria,AT,United States,US,74
+2021-06,Austria,AT,United States,US,90
+2021-07,Austria,AT,United States,US,114
+2021-08,Austria,AT,United States,US,120
+2021-09,Austria,AT,United States,US,112
+2021-10,Austria,AT,United States,US,109
+2021-11,Austria,AT,United States,US,71
+2021-12,Austria,AT,United States,US,76
+2020-12,Australia,AU,United States,US,5
+2021-01,Australia,AU,United States,US,142
+2021-02,Australia,AU,United States,US,145
+2021-03,Australia,AU,United States,US,161
+2021-04,Australia,AU,United States,US,169
+2021-05,Australia,AU,United States,US,168
+2021-06,Australia,AU,United States,US,190
+2021-07,Australia,AU,United States,US,170
+2021-08,Australia,AU,United States,US,172
+2021-09,Australia,AU,United States,US,168
+2021-10,Australia,AU,United States,US,173
+2021-11,Australia,AU,United States,US,171
+2021-12,Australia,AU,United States,US,201
+2021-04,Aruba,AW,United States,US,70
+2021-05,Aruba,AW,United States,US,453
+2021-06,Aruba,AW,United States,US,532
+2021-07,Aruba,AW,United States,US,496
+2021-08,Aruba,AW,United States,US,518
+2021-09,Aruba,AW,United States,US,405
+2021-10,Aruba,AW,United States,US,444
+2021-11,Aruba,AW,United States,US,489
+2021-12,Aruba,AW,United States,US,560
+2021-05,Azerbaijan,AZ,United States,US,1
+2020-12,Barbados,BB,United States,US,4
+2021-01,Barbados,BB,United States,US,3
+2021-02,Barbados,BB,United States,US,37
+2021-03,Barbados,BB,United States,US,119
+2021-04,Barbados,BB,United States,US,59
+2021-05,Barbados,BB,United States,US,99
+2021-06,Barbados,BB,United States,US,92
+2021-07,Barbados,BB,United States,US,112
+2021-08,Barbados,BB,United States,US,73
+2021-09,Barbados,BB,United States,US,84
+2021-10,Barbados,BB,United States,US,117
+2021-11,Barbados,BB,United States,US,117
+2021-12,Barbados,BB,United States,US,236
+2021-04,Bangladesh,BD,United States,US,2
+2021-05,Bangladesh,BD,United States,US,1
+2021-06,Bangladesh,BD,United States,US,1
+2021-07,Bangladesh,BD,United States,US,7
+2021-08,Bangladesh,BD,United States,US,4
+2021-09,Bangladesh,BD,United States,US,6
+2021-11,Bangladesh,BD,United States,US,1
+2021-12,Bangladesh,BD,United States,US,1
+2020-12,Belgium,BE,United States,US,5
+2021-01,Belgium,BE,United States,US,184
+2021-02,Belgium,BE,United States,US,233
+2021-03,Belgium,BE,United States,US,269
+2021-04,Belgium,BE,United States,US,284
+2021-05,Belgium,BE,United States,US,315
+2021-06,Belgium,BE,United States,US,343
+2021-07,Belgium,BE,United States,US,364
+2021-08,Belgium,BE,United States,US,356
+2021-09,Belgium,BE,United States,US,353
+2021-10,Belgium,BE,United States,US,382
+2021-11,Belgium,BE,United States,US,333
+2021-12,Belgium,BE,United States,US,320
+2021-05,Bulgaria,BG,United States,US,2
+2021-06,Bulgaria,BG,United States,US,13
+2021-07,Bulgaria,BG,United States,US,34
+2021-08,Bulgaria,BG,United States,US,44
+2021-09,Bulgaria,BG,United States,US,18
+2021-10,Bulgaria,BG,United States,US,28
+2021-11,Bulgaria,BG,United States,US,18
+2021-12,Bulgaria,BG,United States,US,15
+2021-02,Bahrain,BH,United States,US,1
+2021-06,Bahrain,BH,United States,US,2
+2021-07,Bahrain,BH,United States,US,1
+2021-08,Bahrain,BH,United States,US,6
+2021-09,Bahrain,BH,United States,US,2
+2021-11,Bahrain,BH,United States,US,1
+2020-12,Bermuda,BM,United States,US,4
+2021-01,Bermuda,BM,United States,US,151
+2021-02,Bermuda,BM,United States,US,118
+2021-03,Bermuda,BM,United States,US,166
+2021-04,Bermuda,BM,United States,US,191
+2021-05,Bermuda,BM,United States,US,248
+2021-06,Bermuda,BM,United States,US,324
+2021-07,Bermuda,BM,United States,US,265
+2021-08,Bermuda,BM,United States,US,159
+2021-09,Bermuda,BM,United States,US,236
+2021-10,Bermuda,BM,United States,US,220
+2021-11,Bermuda,BM,United States,US,218
+2021-12,Bermuda,BM,United States,US,190
+2020-12,Brazil,BR,United States,US,15
+2021-01,Brazil,BR,United States,US,355
+2021-02,Brazil,BR,United States,US,334
+2021-03,Brazil,BR,United States,US,380
+2021-04,Brazil,BR,United States,US,404
+2021-05,Brazil,BR,United States,US,347
+2021-06,Brazil,BR,United States,US,343
+2021-07,Brazil,BR,United States,US,352
+2021-08,Brazil,BR,United States,US,331
+2021-09,Brazil,BR,United States,US,272
+2021-10,Brazil,BR,United States,US,154
+2021-11,Brazil,BR,United States,US,372
+2021-12,Brazil,BR,United States,US,528
+2021-01,Bahamas,BS,United States,US,17
+2021-02,Bahamas,BS,United States,US,131
+2021-03,Bahamas,BS,United States,US,226
+2021-04,Bahamas,BS,United States,US,412
+2021-05,Bahamas,BS,United States,US,292
+2021-06,Bahamas,BS,United States,US,224
+2021-07,Bahamas,BS,United States,US,212
+2021-08,Bahamas,BS,United States,US,99
+2021-01,Belarus,BY,United States,US,1
+2021-03,Belarus,BY,United States,US,1
+2021-04,Belarus,BY,United States,US,1
+2021-05,Belarus,BY,United States,US,4
+2020-12,Canada,CA,United States,US,72
+2021-01,Canada,CA,United States,US,2911
+2021-02,Canada,CA,United States,US,2060
+2021-03,Canada,CA,United States,US,2028
+2021-04,Canada,CA,United States,US,2390
+2021-05,Canada,CA,United States,US,2416
+2021-06,Canada,CA,United States,US,3217
+2021-07,Canada,CA,United States,US,4398
+2021-08,Canada,CA,United States,US,5901
+2021-09,Canada,CA,United States,US,7194
+2021-10,Canada,CA,United States,US,8633
+2021-11,Canada,CA,United States,US,8562
+2021-12,Canada,CA,United States,US,9178
+2021-01,Switzerland,CH,United States,US,86
+2021-02,Switzerland,CH,United States,US,94
+2021-03,Switzerland,CH,United States,US,102
+2021-04,Switzerland,CH,United States,US,115
+2021-05,Switzerland,CH,United States,US,140
+2021-06,Switzerland,CH,United States,US,183
+2021-07,Switzerland,CH,United States,US,228
+2021-08,Switzerland,CH,United States,US,263
+2021-09,Switzerland,CH,United States,US,279
+2021-10,Switzerland,CH,United States,US,274
+2021-11,Switzerland,CH,United States,US,273
+2021-12,Switzerland,CH,United States,US,346
+2020-12,China,CN,United States,US,2
+2021-01,China,CN,United States,US,57
+2021-02,China,CN,United States,US,88
+2021-03,China,CN,United States,US,104
+2021-04,China,CN,United States,US,89
+2021-05,China,CN,United States,US,90
+2021-06,China,CN,United States,US,84
+2021-07,China,CN,United States,US,85
+2021-08,China,CN,United States,US,71
+2021-09,China,CN,United States,US,67
+2021-10,China,CN,United States,US,65
+2021-11,China,CN,United States,US,72
+2021-12,China,CN,United States,US,53
+2020-12,Colombia,CO,United States,US,24
+2021-01,Colombia,CO,United States,US,954
+2021-02,Colombia,CO,United States,US,788
+2021-03,Colombia,CO,United States,US,708
+2021-04,Colombia,CO,United States,US,946
+2021-05,Colombia,CO,United States,US,864
+2021-06,Colombia,CO,United States,US,915
+2021-07,Colombia,CO,United States,US,607
+2021-08,Colombia,CO,United States,US,175
+2021-11,Colombia,CO,United States,US,440
+2021-12,Colombia,CO,United States,US,190
+2020-12,Costa Rica,CR,United States,US,13
+2021-01,Costa Rica,CR,United States,US,593
+2021-02,Costa Rica,CR,United States,US,264
+2021-05,Cape Verde,CV,United States,US,2
+2021-10,Cape Verde,CV,United States,US,1
+2021-12,Cape Verde,CV,United States,US,1
+2021-07,Cyprus,CY,United States,US,1
+2021-08,Cyprus,CY,United States,US,1
+2021-10,Cyprus,CY,United States,US,2
+2021-01,Czech Republic,CZ,United States,US,2
+2021-02,Czech Republic,CZ,United States,US,2
+2021-03,Czech Republic,CZ,United States,US,1
+2021-04,Czech Republic,CZ,United States,US,1
+2021-05,Czech Republic,CZ,United States,US,4
+2021-06,Czech Republic,CZ,United States,US,2
+2021-07,Czech Republic,CZ,United States,US,5
+2021-08,Czech Republic,CZ,United States,US,2
+2021-09,Czech Republic,CZ,United States,US,5
+2021-10,Czech Republic,CZ,United States,US,1
+2021-11,Czech Republic,CZ,United States,US,4
+2021-12,Czech Republic,CZ,United States,US,4
+2020-12,Germany,DE,United States,US,19
+2021-01,Germany,DE,United States,US,960
+2021-02,Germany,DE,United States,US,949
+2021-03,Germany,DE,United States,US,1055
+2021-04,Germany,DE,United States,US,1101
+2021-05,Germany,DE,United States,US,1173
+2021-06,Germany,DE,United States,US,1231
+2021-07,Germany,DE,United States,US,1324
+2021-08,Germany,DE,United States,US,1523
+2021-09,Germany,DE,United States,US,1525
+2021-10,Germany,DE,United States,US,1497
+2021-11,Germany,DE,United States,US,1496
+2021-12,Germany,DE,United States,US,1633
+2020-12,Denmark,DK,United States,US,1
+2021-01,Denmark,DK,United States,US,89
+2021-02,Denmark,DK,United States,US,106
+2021-03,Denmark,DK,United States,US,129
+2021-04,Denmark,DK,United States,US,140
+2021-05,Denmark,DK,United States,US,147
+2021-06,Denmark,DK,United States,US,157
+2021-07,Denmark,DK,United States,US,183
+2021-08,Denmark,DK,United States,US,180
+2021-09,Denmark,DK,United States,US,192
+2021-10,Denmark,DK,United States,US,172
+2021-11,Denmark,DK,United States,US,155
+2021-12,Denmark,DK,United States,US,175
+2021-10,Dominican Republic,DO,United States,US,146
+2021-11,Dominican Republic,DO,United States,US,185
+2021-12,Dominican Republic,DO,United States,US,221
+2021-03,Algeria,DZ,United States,US,1
+2021-05,Algeria,DZ,United States,US,1
+2020-12,Ecuador,EC,United States,US,2
+2021-01,Ecuador,EC,United States,US,93
+2021-02,Ecuador,EC,United States,US,59
+2021-03,Ecuador,EC,United States,US,55
+2021-04,Ecuador,EC,United States,US,48
+2021-05,Ecuador,EC,United States,US,36
+2021-06,Ecuador,EC,United States,US,6
+2021-07,Ecuador,EC,United States,US,34
+2021-08,Ecuador,EC,United States,US,38
+2021-09,Ecuador,EC,United States,US,75
+2021-10,Ecuador,EC,United States,US,54
+2021-11,Ecuador,EC,United States,US,95
+2021-12,Ecuador,EC,United States,US,64
+2021-02,Estonia,EE,United States,US,1
+2021-04,Estonia,EE,United States,US,1
+2021-05,Estonia,EE,United States,US,3
+2021-09,Estonia,EE,United States,US,7
+2021-10,Estonia,EE,United States,US,20
+2021-11,Estonia,EE,United States,US,32
+2021-12,Estonia,EE,United States,US,32
+2021-04,Egypt,EG,United States,US,2
+2021-05,Egypt,EG,United States,US,10
+2021-06,Egypt,EG,United States,US,9
+2021-07,Egypt,EG,United States,US,19
+2021-08,Egypt,EG,United States,US,12
+2021-10,Egypt,EG,United States,US,2
+2020-12,Spain,ES,United States,US,2
+2021-01,Spain,ES,United States,US,118
+2021-02,Spain,ES,United States,US,112
+2021-03,Spain,ES,United States,US,168
+2021-04,Spain,ES,United States,US,208
+2021-05,Spain,ES,United States,US,213
+2021-06,Spain,ES,United States,US,298
+2021-07,Spain,ES,United States,US,463
+2021-08,Spain,ES,United States,US,506
+2021-09,Spain,ES,United States,US,516
+2021-10,Spain,ES,United States,US,503
+2021-11,Spain,ES,United States,US,401
+2021-12,Spain,ES,United States,US,473
+2020-12,Finland,FI,United States,US,1
+2021-01,Finland,FI,United States,US,18
+2021-02,Finland,FI,United States,US,23
+2021-03,Finland,FI,United States,US,31
+2021-04,Finland,FI,United States,US,21
+2021-05,Finland,FI,United States,US,22
+2021-06,Finland,FI,United States,US,33
+2021-07,Finland,FI,United States,US,49
+2021-08,Finland,FI,United States,US,72
+2021-09,Finland,FI,United States,US,80
+2021-10,Finland,FI,United States,US,73
+2021-11,Finland,FI,United States,US,56
+2021-12,Finland,FI,United States,US,74
+2020-12,France,FR,United States,US,12
+2021-01,France,FR,United States,US,359
+2021-02,France,FR,United States,US,363
+2021-03,France,FR,United States,US,445
+2021-04,France,FR,United States,US,504
+2021-05,France,FR,United States,US,529
+2021-06,France,FR,United States,US,659
+2021-07,France,FR,United States,US,897
+2021-08,France,FR,United States,US,917
+2021-09,France,FR,United States,US,938
+2021-10,France,FR,United States,US,901
+2021-11,France,FR,United States,US,924
+2021-12,France,FR,United States,US,1025
+2020-12,United Kingdom,GB,United States,US,21
+2021-01,United Kingdom,GB,United States,US,1130
+2021-02,United Kingdom,GB,United States,US,1207
+2021-03,United Kingdom,GB,United States,US,1313
+2021-04,United Kingdom,GB,United States,US,1424
+2021-05,United Kingdom,GB,United States,US,1404
+2021-06,United Kingdom,GB,United States,US,1451
+2021-07,United Kingdom,GB,United States,US,1400
+2021-08,United Kingdom,GB,United States,US,1553
+2021-09,United Kingdom,GB,United States,US,1823
+2021-10,United Kingdom,GB,United States,US,2075
+2021-11,United Kingdom,GB,United States,US,2248
+2021-12,United Kingdom,GB,United States,US,2494
+2021-02,Grenada,GD,United States,US,3
+2021-03,Grenada,GD,United States,US,4
+2021-04,Grenada,GD,United States,US,2
+2021-05,Grenada,GD,United States,US,5
+2021-06,Grenada,GD,United States,US,7
+2021-07,Grenada,GD,United States,US,5
+2021-08,Grenada,GD,United States,US,2
+2021-09,Grenada,GD,United States,US,2
+2021-09,Guernsey,GG,United States,US,1
+2021-01,Greece,GR,United States,US,2
+2021-04,Greece,GR,United States,US,3
+2021-05,Greece,GR,United States,US,4
+2021-06,Greece,GR,United States,US,82
+2021-07,Greece,GR,United States,US,113
+2021-08,Greece,GR,United States,US,248
+2021-09,Greece,GR,United States,US,223
+2021-10,Greece,GR,United States,US,139
+2021-11,Greece,GR,United States,US,30
+2021-12,Greece,GR,United States,US,14
+2020-12,Guatemala,GT,United States,US,12
+2021-01,Guatemala,GT,United States,US,485
+2021-02,Guatemala,GT,United States,US,418
+2021-03,Guatemala,GT,United States,US,466
+2021-04,Guatemala,GT,United States,US,438
+2021-05,Guatemala,GT,United States,US,148
+2021-06,Guatemala,GT,United States,US,282
+2021-07,Guatemala,GT,United States,US,153
+2021-08,Guatemala,GT,United States,US,131
+2021-09,Guatemala,GT,United States,US,113
+2021-10,Guatemala,GT,United States,US,144
+2021-11,Guatemala,GT,United States,US,241
+2021-12,Guatemala,GT,United States,US,213
+2020-12,Hong Kong,HK,United States,US,15
+2021-01,Hong Kong,HK,United States,US,553
+2021-02,Hong Kong,HK,United States,US,414
+2021-03,Hong Kong,HK,United States,US,445
+2021-04,Hong Kong,HK,United States,US,445
+2021-05,Hong Kong,HK,United States,US,512
+2021-06,Hong Kong,HK,United States,US,546
+2021-07,Hong Kong,HK,United States,US,553
+2021-08,Hong Kong,HK,United States,US,630
+2021-09,Hong Kong,HK,United States,US,670
+2021-10,Hong Kong,HK,United States,US,627
+2021-11,Hong Kong,HK,United States,US,622
+2021-12,Hong Kong,HK,United States,US,642
+2021-01,Croatia,HR,United States,US,1
+2021-02,Croatia,HR,United States,US,5
+2021-03,Croatia,HR,United States,US,1
+2021-04,Croatia,HR,United States,US,1
+2021-05,Croatia,HR,United States,US,2
+2021-06,Croatia,HR,United States,US,7
+2021-07,Croatia,HR,United States,US,4
+2021-08,Croatia,HR,United States,US,5
+2021-09,Croatia,HR,United States,US,6
+2021-10,Croatia,HR,United States,US,1
+2021-11,Croatia,HR,United States,US,2
+2021-12,Croatia,HR,United States,US,1
+2021-01,Hungary,HU,United States,US,5
+2021-02,Hungary,HU,United States,US,1
+2021-03,Hungary,HU,United States,US,3
+2021-04,Hungary,HU,United States,US,6
+2021-05,Hungary,HU,United States,US,5
+2021-06,Hungary,HU,United States,US,7
+2021-07,Hungary,HU,United States,US,5
+2021-08,Hungary,HU,United States,US,7
+2021-09,Hungary,HU,United States,US,6
+2021-10,Hungary,HU,United States,US,3
+2021-11,Hungary,HU,United States,US,7
+2021-12,Hungary,HU,United States,US,2
+2021-05,Indonesia,ID,United States,US,1
+2021-06,Indonesia,ID,United States,US,2
+2021-12,Indonesia,ID,United States,US,2
+2020-12,Ireland,IE,United States,US,6
+2021-01,Ireland,IE,United States,US,219
+2021-02,Ireland,IE,United States,US,205
+2021-03,Ireland,IE,United States,US,221
+2021-04,Ireland,IE,United States,US,246
+2021-05,Ireland,IE,United States,US,231
+2021-06,Ireland,IE,United States,US,269
+2021-07,Ireland,IE,United States,US,346
+2021-08,Ireland,IE,United States,US,439
+2021-09,Ireland,IE,United States,US,449
+2021-10,Ireland,IE,United States,US,436
+2021-11,Ireland,IE,United States,US,342
+2021-12,Ireland,IE,United States,US,414
+2020-12,Israel,IL,United States,US,4
+2021-01,Israel,IL,United States,US,114
+2021-02,Israel,IL,United States,US,81
+2021-03,Israel,IL,United States,US,118
+2021-04,Israel,IL,United States,US,166
+2021-05,Israel,IL,United States,US,186
+2021-06,Israel,IL,United States,US,327
+2021-07,Israel,IL,United States,US,315
+2021-08,Israel,IL,United States,US,340
+2021-09,Israel,IL,United States,US,251
+2021-10,Israel,IL,United States,US,286
+2021-11,Israel,IL,United States,US,250
+2021-12,Israel,IL,United States,US,251
+2020-12,India,IN,United States,US,8
+2021-01,India,IN,United States,US,218
+2021-02,India,IN,United States,US,204
+2021-03,India,IN,United States,US,220
+2021-04,India,IN,United States,US,220
+2021-05,India,IN,United States,US,180
+2021-06,India,IN,United States,US,129
+2021-07,India,IN,United States,US,126
+2021-08,India,IN,United States,US,180
+2021-09,India,IN,United States,US,163
+2021-10,India,IN,United States,US,159
+2021-11,India,IN,United States,US,185
+2021-12,India,IN,United States,US,227
+2021-01,Iceland,IS,United States,US,44
+2021-02,Iceland,IS,United States,US,21
+2021-04,Iceland,IS,United States,US,25
+2021-05,Iceland,IS,United States,US,83
+2021-06,Iceland,IS,United States,US,333
+2021-07,Iceland,IS,United States,US,418
+2021-08,Iceland,IS,United States,US,277
+2021-09,Iceland,IS,United States,US,12
+2021-10,Iceland,IS,United States,US,148
+2021-11,Iceland,IS,United States,US,267
+2021-12,Iceland,IS,United States,US,268
+2021-01,Italy,IT,United States,US,188
+2021-02,Italy,IT,United States,US,210
+2021-03,Italy,IT,United States,US,219
+2021-04,Italy,IT,United States,US,267
+2021-05,Italy,IT,United States,US,304
+2021-06,Italy,IT,United States,US,349
+2021-07,Italy,IT,United States,US,484
+2021-08,Italy,IT,United States,US,505
+2021-09,Italy,IT,United States,US,536
+2021-10,Italy,IT,United States,US,436
+2021-11,Italy,IT,United States,US,265
+2021-12,Italy,IT,United States,US,268
+2021-04,Jersey,JE,United States,US,1
+2021-11,Jersey,JE,United States,US,2
+2021-12,Jersey,JE,United States,US,3
+2020-12,Japan,JP,United States,US,30
+2021-01,Japan,JP,United States,US,1154
+2021-02,Japan,JP,United States,US,1064
+2021-03,Japan,JP,United States,US,1365
+2021-04,Japan,JP,United States,US,1194
+2021-05,Japan,JP,United States,US,1205
+2021-06,Japan,JP,United States,US,1203
+2021-07,Japan,JP,United States,US,1148
+2021-08,Japan,JP,United States,US,1198
+2021-09,Japan,JP,United States,US,1186
+2021-10,Japan,JP,United States,US,1263
+2021-11,Japan,JP,United States,US,1377
+2021-12,Japan,JP,United States,US,1287
+2021-02,Kenya,KE,United States,US,3
+2021-03,Kenya,KE,United States,US,5
+2021-04,Kenya,KE,United States,US,1
+2021-05,Kenya,KE,United States,US,4
+2021-06,Kenya,KE,United States,US,7
+2021-07,Kenya,KE,United States,US,11
+2021-08,Kenya,KE,United States,US,11
+2021-09,Kenya,KE,United States,US,5
+2021-10,Kenya,KE,United States,US,6
+2020-12,"Korea, Republic of",KR,United States,US,28
+2021-01,"Korea, Republic of",KR,United States,US,651
+2021-02,"Korea, Republic of",KR,United States,US,545
+2021-03,"Korea, Republic of",KR,United States,US,765
+2021-04,"Korea, Republic of",KR,United States,US,280
+2021-08,"Korea, Republic of",KR,United States,US,1
+2021-09,"Korea, Republic of",KR,United States,US,349
+2021-10,"Korea, Republic of",KR,United States,US,1140
+2021-11,"Korea, Republic of",KR,United States,US,1331
+2021-12,"Korea, Republic of",KR,United States,US,1265
+2021-05,Kuwait,KW,United States,US,1
+2021-07,Kuwait,KW,United States,US,1
+2021-01,Kazakhstan,KZ,United States,US,1
+2021-04,Kazakhstan,KZ,United States,US,1
+2021-05,Kazakhstan,KZ,United States,US,1
+2021-07,Kazakhstan,KZ,United States,US,1
+2021-08,Kazakhstan,KZ,United States,US,1
+2021-09,Lebanon,LB,United States,US,2
+2021-10,Lebanon,LB,United States,US,2
+2021-12,Lebanon,LB,United States,US,1
+2020-12,Saint Lucia,LC,United States,US,3
+2021-01,Saint Lucia,LC,United States,US,16
+2021-02,Saint Lucia,LC,United States,US,61
+2021-03,Saint Lucia,LC,United States,US,134
+2021-04,Saint Lucia,LC,United States,US,95
+2021-05,Saint Lucia,LC,United States,US,95
+2021-06,Saint Lucia,LC,United States,US,155
+2021-07,Saint Lucia,LC,United States,US,174
+2021-08,Saint Lucia,LC,United States,US,49
+2021-09,Saint Lucia,LC,United States,US,17
+2021-10,Saint Lucia,LC,United States,US,7
+2021-12,Saint Lucia,LC,United States,US,2
+2021-01,Lithuania,LT,United States,US,1
+2021-05,Lithuania,LT,United States,US,1
+2021-07,Lithuania,LT,United States,US,1
+2020-12,Luxembourg,LU,United States,US,2
+2021-01,Luxembourg,LU,United States,US,133
+2021-02,Luxembourg,LU,United States,US,129
+2021-03,Luxembourg,LU,United States,US,118
+2021-04,Luxembourg,LU,United States,US,111
+2021-05,Luxembourg,LU,United States,US,125
+2021-06,Luxembourg,LU,United States,US,118
+2021-07,Luxembourg,LU,United States,US,113
+2021-08,Luxembourg,LU,United States,US,123
+2021-09,Luxembourg,LU,United States,US,122
+2021-10,Luxembourg,LU,United States,US,124
+2021-11,Luxembourg,LU,United States,US,118
+2021-12,Luxembourg,LU,United States,US,131
+2021-06,Latvia,LV,United States,US,1
+2021-07,Latvia,LV,United States,US,1
+2021-08,Latvia,LV,United States,US,2
+2021-09,Latvia,LV,United States,US,1
+2021-10,Latvia,LV,United States,US,2
+2021-12,Latvia,LV,United States,US,5
+2020-12,Morocco,MA,United States,US,2
+2021-01,Morocco,MA,United States,US,32
+2021-02,Morocco,MA,United States,US,19
+2021-03,Morocco,MA,United States,US,24
+2021-04,Morocco,MA,United States,US,31
+2021-05,Morocco,MA,United States,US,32
+2021-06,Morocco,MA,United States,US,66
+2021-07,Morocco,MA,United States,US,83
+2021-08,Morocco,MA,United States,US,87
+2021-09,Morocco,MA,United States,US,53
+2021-10,Morocco,MA,United States,US,40
+2021-11,Morocco,MA,United States,US,37
+2021-12,Morocco,MA,United States,US,8
+2021-01,Macao,MO,United States,US,1
+2021-09,Macao,MO,United States,US,1
+2021-01,Malta,MT,United States,US,1
+2021-02,Malta,MT,United States,US,4
+2021-03,Malta,MT,United States,US,1
+2021-04,Malta,MT,United States,US,6
+2021-05,Malta,MT,United States,US,8
+2021-06,Malta,MT,United States,US,2
+2021-07,Malta,MT,United States,US,7
+2021-08,Malta,MT,United States,US,9
+2021-09,Malta,MT,United States,US,10
+2021-10,Malta,MT,United States,US,2
+2021-12,Malta,MT,United States,US,3
+2020-12,Mexico,MX,United States,US,57
+2021-01,Mexico,MX,United States,US,1977
+2021-02,Mexico,MX,United States,US,1387
+2021-03,Mexico,MX,United States,US,808
+2021-04,Mexico,MX,United States,US,1482
+2021-05,Mexico,MX,United States,US,2110
+2021-06,Mexico,MX,United States,US,975
+2021-07,Mexico,MX,United States,US,461
+2021-08,Mexico,MX,United States,US,436
+2021-09,Mexico,MX,United States,US,994
+2021-10,Mexico,MX,United States,US,1830
+2021-11,Mexico,MX,United States,US,2030
+2021-12,Mexico,MX,United States,US,1937
+2021-01,Malaysia,MY,United States,US,2
+2021-03,Malaysia,MY,United States,US,2
+2021-04,Malaysia,MY,United States,US,1
+2021-05,Malaysia,MY,United States,US,5
+2021-06,Malaysia,MY,United States,US,5
+2021-07,Malaysia,MY,United States,US,1
+2021-08,Malaysia,MY,United States,US,1
+2021-10,Malaysia,MY,United States,US,8
+2021-11,Malaysia,MY,United States,US,9
+2021-12,Malaysia,MY,United States,US,10
+2020-12,Nicaragua,NI,United States,US,1
+2021-01,Nicaragua,NI,United States,US,100
+2021-02,Nicaragua,NI,United States,US,100
+2021-03,Nicaragua,NI,United States,US,119
+2021-04,Nicaragua,NI,United States,US,91
+2021-05,Nicaragua,NI,United States,US,101
+2021-06,Nicaragua,NI,United States,US,146
+2021-07,Nicaragua,NI,United States,US,18
+2020-12,Netherlands,NL,United States,US,16
+2021-01,Netherlands,NL,United States,US,566
+2021-02,Netherlands,NL,United States,US,499
+2021-03,Netherlands,NL,United States,US,542
+2021-04,Netherlands,NL,United States,US,624
+2021-05,Netherlands,NL,United States,US,621
+2021-06,Netherlands,NL,United States,US,625
+2021-07,Netherlands,NL,United States,US,675
+2021-08,Netherlands,NL,United States,US,691
+2021-09,Netherlands,NL,United States,US,735
+2021-10,Netherlands,NL,United States,US,742
+2021-11,Netherlands,NL,United States,US,643
+2021-12,Netherlands,NL,United States,US,664
+2021-01,Norway,NO,United States,US,1
+2021-02,Norway,NO,United States,US,4
+2021-03,Norway,NO,United States,US,3
+2021-05,Norway,NO,United States,US,4
+2021-06,Norway,NO,United States,US,5
+2021-07,Norway,NO,United States,US,13
+2021-08,Norway,NO,United States,US,13
+2021-09,Norway,NO,United States,US,18
+2021-10,Norway,NO,United States,US,11
+2021-11,Norway,NO,United States,US,15
+2021-12,Norway,NO,United States,US,8
+2020-12,New Zealand,NZ,United States,US,1
+2021-01,New Zealand,NZ,United States,US,63
+2021-02,New Zealand,NZ,United States,US,48
+2021-03,New Zealand,NZ,United States,US,71
+2021-04,New Zealand,NZ,United States,US,61
+2021-05,New Zealand,NZ,United States,US,49
+2021-06,New Zealand,NZ,United States,US,47
+2021-07,New Zealand,NZ,United States,US,44
+2021-08,New Zealand,NZ,United States,US,44
+2021-09,New Zealand,NZ,United States,US,12
+2021-10,New Zealand,NZ,United States,US,9
+2021-11,New Zealand,NZ,United States,US,84
+2021-12,New Zealand,NZ,United States,US,86
+2020-12,Panama,PA,United States,US,8
+2021-01,Panama,PA,United States,US,547
+2021-02,Panama,PA,United States,US,442
+2021-03,Panama,PA,United States,US,508
+2021-04,Panama,PA,United States,US,544
+2021-05,Panama,PA,United States,US,480
+2021-06,Panama,PA,United States,US,568
+2021-07,Panama,PA,United States,US,610
+2021-08,Panama,PA,United States,US,775
+2021-09,Panama,PA,United States,US,633
+2021-10,Panama,PA,United States,US,661
+2021-11,Panama,PA,United States,US,475
+2021-12,Panama,PA,United States,US,389
+2020-12,Peru,PE,United States,US,11
+2021-01,Peru,PE,United States,US,325
+2021-02,Peru,PE,United States,US,261
+2021-03,Peru,PE,United States,US,242
+2021-04,Peru,PE,United States,US,297
+2021-05,Peru,PE,United States,US,329
+2021-06,Peru,PE,United States,US,352
+2021-07,Peru,PE,United States,US,473
+2021-08,Peru,PE,United States,US,426
+2021-09,Peru,PE,United States,US,420
+2021-10,Peru,PE,United States,US,399
+2021-11,Peru,PE,United States,US,390
+2021-12,Peru,PE,United States,US,395
+2021-01,French Polynesia,PF,United States,US,22
+2021-02,French Polynesia,PF,United States,US,11
+2021-03,French Polynesia,PF,United States,US,2
+2021-04,French Polynesia,PF,United States,US,1
+2021-05,French Polynesia,PF,United States,US,23
+2021-06,French Polynesia,PF,United States,US,9
+2021-07,French Polynesia,PF,United States,US,28
+2021-08,French Polynesia,PF,United States,US,21
+2021-09,French Polynesia,PF,United States,US,21
+2021-10,French Polynesia,PF,United States,US,34
+2021-11,French Polynesia,PF,United States,US,63
+2021-12,French Polynesia,PF,United States,US,76
+2021-01,Philippines,PH,United States,US,18
+2021-02,Philippines,PH,United States,US,25
+2021-03,Philippines,PH,United States,US,15
+2021-04,Philippines,PH,United States,US,22
+2021-05,Philippines,PH,United States,US,55
+2021-06,Philippines,PH,United States,US,47
+2021-07,Philippines,PH,United States,US,53
+2021-08,Philippines,PH,United States,US,69
+2021-09,Philippines,PH,United States,US,74
+2021-10,Philippines,PH,United States,US,79
+2021-11,Philippines,PH,United States,US,86
+2021-12,Philippines,PH,United States,US,100
+2021-01,Poland,PL,United States,US,43
+2021-02,Poland,PL,United States,US,31
+2021-03,Poland,PL,United States,US,47
+2021-04,Poland,PL,United States,US,56
+2021-05,Poland,PL,United States,US,56
+2021-06,Poland,PL,United States,US,110
+2021-07,Poland,PL,United States,US,137
+2021-08,Poland,PL,United States,US,140
+2021-09,Poland,PL,United States,US,114
+2021-10,Poland,PL,United States,US,69
+2021-11,Poland,PL,United States,US,71
+2021-12,Poland,PL,United States,US,91
+2020-12,Portugal,PT,United States,US,2
+2021-01,Portugal,PT,United States,US,87
+2021-02,Portugal,PT,United States,US,44
+2021-03,Portugal,PT,United States,US,74
+2021-04,Portugal,PT,United States,US,100
+2021-05,Portugal,PT,United States,US,106
+2021-06,Portugal,PT,United States,US,164
+2021-07,Portugal,PT,United States,US,247
+2021-08,Portugal,PT,United States,US,265
+2021-09,Portugal,PT,United States,US,253
+2021-10,Portugal,PT,United States,US,251
+2021-11,Portugal,PT,United States,US,244
+2021-12,Portugal,PT,United States,US,254
+2020-12,Qatar,QA,United States,US,8
+2021-01,Qatar,QA,United States,US,259
+2021-02,Qatar,QA,United States,US,247
+2021-03,Qatar,QA,United States,US,284
+2021-04,Qatar,QA,United States,US,286
+2021-05,Qatar,QA,United States,US,292
+2021-06,Qatar,QA,United States,US,315
+2021-07,Qatar,QA,United States,US,438
+2021-08,Qatar,QA,United States,US,507
+2021-09,Qatar,QA,United States,US,477
+2021-10,Qatar,QA,United States,US,442
+2021-11,Qatar,QA,United States,US,399
+2021-12,Qatar,QA,United States,US,409
+2021-02,Romania,RO,United States,US,1
+2021-04,Romania,RO,United States,US,2
+2021-05,Romania,RO,United States,US,2
+2021-06,Romania,RO,United States,US,2
+2021-07,Romania,RO,United States,US,2
+2021-08,Romania,RO,United States,US,2
+2021-09,Romania,RO,United States,US,4
+2021-10,Romania,RO,United States,US,1
+2021-12,Romania,RO,United States,US,2
+2021-01,Serbia,RS,United States,US,9
+2021-02,Serbia,RS,United States,US,9
+2021-03,Serbia,RS,United States,US,11
+2021-04,Serbia,RS,United States,US,13
+2021-05,Serbia,RS,United States,US,14
+2021-06,Serbia,RS,United States,US,20
+2021-07,Serbia,RS,United States,US,25
+2021-08,Serbia,RS,United States,US,22
+2021-09,Serbia,RS,United States,US,19
+2021-10,Serbia,RS,United States,US,14
+2021-11,Serbia,RS,United States,US,8
+2021-12,Serbia,RS,United States,US,11
+2020-12,Russian Federation,RU,United States,US,2
+2021-01,Russian Federation,RU,United States,US,42
+2021-02,Russian Federation,RU,United States,US,41
+2021-03,Russian Federation,RU,United States,US,54
+2021-04,Russian Federation,RU,United States,US,62
+2021-05,Russian Federation,RU,United States,US,65
+2021-06,Russian Federation,RU,United States,US,80
+2021-07,Russian Federation,RU,United States,US,92
+2021-08,Russian Federation,RU,United States,US,94
+2021-09,Russian Federation,RU,United States,US,108
+2021-10,Russian Federation,RU,United States,US,112
+2021-11,Russian Federation,RU,United States,US,73
+2021-12,Russian Federation,RU,United States,US,83
+2021-01,Saudi Arabia,SA,United States,US,11
+2021-02,Saudi Arabia,SA,United States,US,6
+2021-03,Saudi Arabia,SA,United States,US,5
+2021-04,Saudi Arabia,SA,United States,US,2
+2021-05,Saudi Arabia,SA,United States,US,12
+2021-06,Saudi Arabia,SA,United States,US,4
+2021-07,Saudi Arabia,SA,United States,US,14
+2021-08,Saudi Arabia,SA,United States,US,8
+2021-09,Saudi Arabia,SA,United States,US,3
+2021-10,Saudi Arabia,SA,United States,US,15
+2021-11,Saudi Arabia,SA,United States,US,10
+2021-12,Saudi Arabia,SA,United States,US,13
+2021-01,Sweden,SE,United States,US,10
+2021-02,Sweden,SE,United States,US,5
+2021-03,Sweden,SE,United States,US,4
+2021-04,Sweden,SE,United States,US,7
+2021-05,Sweden,SE,United States,US,7
+2021-06,Sweden,SE,United States,US,13
+2021-07,Sweden,SE,United States,US,12
+2021-08,Sweden,SE,United States,US,12
+2021-09,Sweden,SE,United States,US,32
+2021-10,Sweden,SE,United States,US,33
+2021-11,Sweden,SE,United States,US,63
+2021-12,Sweden,SE,United States,US,92
+2020-12,Singapore,SG,United States,US,2
+2021-01,Singapore,SG,United States,US,72
+2021-02,Singapore,SG,United States,US,86
+2021-03,Singapore,SG,United States,US,103
+2021-04,Singapore,SG,United States,US,114
+2021-05,Singapore,SG,United States,US,107
+2021-06,Singapore,SG,United States,US,94
+2021-07,Singapore,SG,United States,US,101
+2021-08,Singapore,SG,United States,US,98
+2021-09,Singapore,SG,United States,US,91
+2021-10,Singapore,SG,United States,US,103
+2021-11,Singapore,SG,United States,US,102
+2021-12,Singapore,SG,United States,US,130
+2021-03,Slovenia,SI,United States,US,1
+2021-04,Slovenia,SI,United States,US,1
+2021-05,Slovenia,SI,United States,US,1
+2021-06,Slovenia,SI,United States,US,1
+2021-08,Slovenia,SI,United States,US,1
+2021-09,Slovenia,SI,United States,US,2
+2021-01,Slovakia,SK,United States,US,1
+2021-03,Slovakia,SK,United States,US,1
+2021-04,Slovakia,SK,United States,US,1
+2021-05,Slovakia,SK,United States,US,3
+2021-06,Slovakia,SK,United States,US,1
+2021-07,Slovakia,SK,United States,US,1
+2021-09,Slovakia,SK,United States,US,1
+2021-10,Slovakia,SK,United States,US,1
+2021-11,Slovakia,SK,United States,US,2
+2021-01,Senegal,SN,United States,US,3
+2021-02,Senegal,SN,United States,US,18
+2021-03,Senegal,SN,United States,US,22
+2021-04,Senegal,SN,United States,US,30
+2021-05,Senegal,SN,United States,US,29
+2021-06,Senegal,SN,United States,US,25
+2021-07,Senegal,SN,United States,US,29
+2021-08,Senegal,SN,United States,US,26
+2021-09,Senegal,SN,United States,US,29
+2021-10,Senegal,SN,United States,US,23
+2021-11,Senegal,SN,United States,US,24
+2021-12,Senegal,SN,United States,US,37
+2021-01,Thailand,TH,United States,US,6
+2021-02,Thailand,TH,United States,US,2
+2021-03,Thailand,TH,United States,US,1
+2021-04,Thailand,TH,United States,US,4
+2021-05,Thailand,TH,United States,US,3
+2021-07,Thailand,TH,United States,US,14
+2021-08,Thailand,TH,United States,US,21
+2021-09,Thailand,TH,United States,US,23
+2021-10,Thailand,TH,United States,US,26
+2021-11,Thailand,TH,United States,US,25
+2021-12,Thailand,TH,United States,US,21
+2020-12,Turkey,TR,United States,US,2
+2021-01,Turkey,TR,United States,US,215
+2021-02,Turkey,TR,United States,US,155
+2021-03,Turkey,TR,United States,US,160
+2021-04,Turkey,TR,United States,US,155
+2021-05,Turkey,TR,United States,US,140
+2021-06,Turkey,TR,United States,US,91
+2021-07,Turkey,TR,United States,US,176
+2021-08,Turkey,TR,United States,US,192
+2021-09,Turkey,TR,United States,US,287
+2021-10,Turkey,TR,United States,US,220
+2021-11,Turkey,TR,United States,US,291
+2021-12,Turkey,TR,United States,US,340
+2020-12,"Taiwan, Province of China",TW,United States,US,31
+2021-01,"Taiwan, Province of China",TW,United States,US,639
+2021-02,"Taiwan, Province of China",TW,United States,US,638
+2021-03,"Taiwan, Province of China",TW,United States,US,773
+2021-04,"Taiwan, Province of China",TW,United States,US,761
+2021-05,"Taiwan, Province of China",TW,United States,US,655
+2021-06,"Taiwan, Province of China",TW,United States,US,691
+2021-07,"Taiwan, Province of China",TW,United States,US,748
+2021-08,"Taiwan, Province of China",TW,United States,US,773
+2021-09,"Taiwan, Province of China",TW,United States,US,695
+2021-10,"Taiwan, Province of China",TW,United States,US,754
+2021-11,"Taiwan, Province of China",TW,United States,US,756
+2021-12,"Taiwan, Province of China",TW,United States,US,798
+2021-01,Ukraine,UA,United States,US,6
+2021-02,Ukraine,UA,United States,US,8
+2021-03,Ukraine,UA,United States,US,13
+2021-04,Ukraine,UA,United States,US,9
+2021-05,Ukraine,UA,United States,US,13
+2021-06,Ukraine,UA,United States,US,12
+2021-07,Ukraine,UA,United States,US,10
+2021-08,Ukraine,UA,United States,US,11
+2021-09,Ukraine,UA,United States,US,12
+2021-10,Ukraine,UA,United States,US,9
+2021-11,Ukraine,UA,United States,US,5
+2021-12,Ukraine,UA,United States,US,10
+2021-04,Uzbekistan,UZ,United States,US,1
+2021-05,Uzbekistan,UZ,United States,US,3
+2021-06,Uzbekistan,UZ,United States,US,4
+2021-07,Uzbekistan,UZ,United States,US,3
+2020-12,Saint Vincent and the Grenadines,VC,United States,US,2
+2021-01,Saint Vincent and the Grenadines,VC,United States,US,5
+2021-02,Saint Vincent and the Grenadines,VC,United States,US,5
+2021-03,Saint Vincent and the Grenadines,VC,United States,US,43
+2021-04,Saint Vincent and the Grenadines,VC,United States,US,17
+2021-05,Saint Vincent and the Grenadines,VC,United States,US,6
+2021-06,Saint Vincent and the Grenadines,VC,United States,US,10
+2021-07,Saint Vincent and the Grenadines,VC,United States,US,17
+2021-08,Saint Vincent and the Grenadines,VC,United States,US,11
+2021-09,Saint Vincent and the Grenadines,VC,United States,US,6
+2021-10,Saint Vincent and the Grenadines,VC,United States,US,7
+2021-11,Saint Vincent and the Grenadines,VC,United States,US,5
+2021-12,Saint Vincent and the Grenadines,VC,United States,US,7
+2021-01,Viet Nam,VN,United States,US,1
+2021-02,Viet Nam,VN,United States,US,2
+2021-04,Viet Nam,VN,United States,US,1
+2021-05,Viet Nam,VN,United States,US,1
+2021-06,Viet Nam,VN,United States,US,1
+2021-08,Viet Nam,VN,United States,US,1
+2021-10,Viet Nam,VN,United States,US,2
+2021-01,South Africa,ZA,United States,US,2
+2021-02,South Africa,ZA,United States,US,2
+2021-03,South Africa,ZA,United States,US,3
+2021-04,South Africa,ZA,United States,US,6
+2021-05,South Africa,ZA,United States,US,4
+2021-06,South Africa,ZA,United States,US,29
+2021-07,South Africa,ZA,United States,US,31
+2021-08,South Africa,ZA,United States,US,45
+2021-09,South Africa,ZA,United States,US,32
+2021-10,South Africa,ZA,United States,US,39
+2021-11,South Africa,ZA,United States,US,34
+2021-12,South Africa,ZA,United States,US,62

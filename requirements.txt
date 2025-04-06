@@ -12,3 +12,5 @@ scikit-learn==1.4.2
 scipy==1.13.0
 seaborn==0.12.2
 streamlit==1.44.1
+gcsfs==2025.3.2   # for Streamlit to read GCS files
+st-files-connection==0.1.0

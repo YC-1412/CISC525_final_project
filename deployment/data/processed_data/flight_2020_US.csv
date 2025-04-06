@@ -1,0 +1,852 @@
+year_month,origin_country,origin_country_code,destination_country,destination_country_code,flight_count
+2019-12,United Arab Emirates,AE,United States,US,12
+2020-01,United Arab Emirates,AE,United States,US,357
+2020-02,United Arab Emirates,AE,United States,US,297
+2020-03,United Arab Emirates,AE,United States,US,243
+2020-04,United Arab Emirates,AE,United States,US,43
+2020-05,United Arab Emirates,AE,United States,US,81
+2020-06,United Arab Emirates,AE,United States,US,123
+2020-07,United Arab Emirates,AE,United States,US,101
+2020-08,United Arab Emirates,AE,United States,US,151
+2020-09,United Arab Emirates,AE,United States,US,184
+2020-10,United Arab Emirates,AE,United States,US,201
+2020-11,United Arab Emirates,AE,United States,US,179
+2020-12,United Arab Emirates,AE,United States,US,168
+2019-12,Argentina,AR,United States,US,12
+2020-01,Argentina,AR,United States,US,219
+2020-02,Argentina,AR,United States,US,282
+2020-03,Argentina,AR,United States,US,116
+2020-04,Argentina,AR,United States,US,61
+2020-05,Argentina,AR,United States,US,56
+2020-06,Argentina,AR,United States,US,47
+2020-07,Argentina,AR,United States,US,45
+2020-08,Argentina,AR,United States,US,62
+2020-09,Argentina,AR,United States,US,50
+2019-12,Austria,AT,United States,US,3
+2020-01,Austria,AT,United States,US,103
+2020-02,Austria,AT,United States,US,96
+2020-03,Austria,AT,United States,US,47
+2020-04,Austria,AT,United States,US,3
+2020-05,Austria,AT,United States,US,2
+2020-06,Austria,AT,United States,US,8
+2020-07,Austria,AT,United States,US,37
+2020-08,Austria,AT,United States,US,58
+2020-09,Austria,AT,United States,US,54
+2020-10,Austria,AT,United States,US,53
+2020-11,Austria,AT,United States,US,23
+2020-12,Austria,AT,United States,US,24
+2019-12,Australia,AU,United States,US,16
+2020-01,Australia,AU,United States,US,498
+2020-02,Australia,AU,United States,US,453
+2020-03,Australia,AU,United States,US,355
+2020-04,Australia,AU,United States,US,70
+2020-05,Australia,AU,United States,US,89
+2020-06,Australia,AU,United States,US,98
+2020-07,Australia,AU,United States,US,113
+2020-08,Australia,AU,United States,US,110
+2020-09,Australia,AU,United States,US,138
+2020-10,Australia,AU,United States,US,140
+2020-11,Australia,AU,United States,US,143
+2020-12,Australia,AU,United States,US,142
+2019-12,Barbados,BB,United States,US,8
+2020-01,Barbados,BB,United States,US,110
+2020-02,Barbados,BB,United States,US,178
+2020-03,Barbados,BB,United States,US,162
+2020-04,Barbados,BB,United States,US,5
+2020-05,Barbados,BB,United States,US,3
+2020-06,Barbados,BB,United States,US,2
+2020-07,Barbados,BB,United States,US,4
+2020-08,Barbados,BB,United States,US,6
+2020-09,Barbados,BB,United States,US,30
+2020-10,Barbados,BB,United States,US,57
+2020-11,Barbados,BB,United States,US,79
+2020-12,Barbados,BB,United States,US,103
+2020-01,Bangladesh,BD,United States,US,2
+2020-02,Bangladesh,BD,United States,US,3
+2020-05,Bangladesh,BD,United States,US,1
+2020-06,Bangladesh,BD,United States,US,8
+2020-07,Bangladesh,BD,United States,US,1
+2020-08,Bangladesh,BD,United States,US,2
+2020-09,Bangladesh,BD,United States,US,6
+2020-10,Bangladesh,BD,United States,US,2
+2020-11,Bangladesh,BD,United States,US,3
+2020-12,Bangladesh,BD,United States,US,1
+2019-12,Belgium,BE,United States,US,5
+2020-01,Belgium,BE,United States,US,223
+2020-02,Belgium,BE,United States,US,254
+2020-03,Belgium,BE,United States,US,237
+2020-04,Belgium,BE,United States,US,172
+2020-05,Belgium,BE,United States,US,212
+2020-06,Belgium,BE,United States,US,205
+2020-07,Belgium,BE,United States,US,223
+2020-08,Belgium,BE,United States,US,224
+2020-09,Belgium,BE,United States,US,196
+2020-10,Belgium,BE,United States,US,212
+2020-11,Belgium,BE,United States,US,198
+2020-12,Belgium,BE,United States,US,201
+2020-06,Bulgaria,BG,United States,US,1
+2020-10,Bulgaria,BG,United States,US,1
+2020-11,Bulgaria,BG,United States,US,1
+2020-02,Bahrain,BH,United States,US,8
+2020-07,Bahrain,BH,United States,US,1
+2020-10,Bahrain,BH,United States,US,1
+2019-12,Bermuda,BM,United States,US,8
+2020-01,Bermuda,BM,United States,US,297
+2020-02,Bermuda,BM,United States,US,309
+2020-03,Bermuda,BM,United States,US,204
+2020-04,Bermuda,BM,United States,US,43
+2020-05,Bermuda,BM,United States,US,53
+2020-06,Bermuda,BM,United States,US,81
+2020-07,Bermuda,BM,United States,US,146
+2020-08,Bermuda,BM,United States,US,181
+2020-09,Bermuda,BM,United States,US,167
+2020-10,Bermuda,BM,United States,US,230
+2020-11,Bermuda,BM,United States,US,204
+2020-12,Bermuda,BM,United States,US,190
+2019-12,"Bolivia, Plurinational State of",BO,United States,US,3
+2020-01,"Bolivia, Plurinational State of",BO,United States,US,36
+2020-02,"Bolivia, Plurinational State of",BO,United States,US,36
+2020-03,"Bolivia, Plurinational State of",BO,United States,US,29
+2020-04,"Bolivia, Plurinational State of",BO,United States,US,5
+2020-05,"Bolivia, Plurinational State of",BO,United States,US,5
+2020-06,"Bolivia, Plurinational State of",BO,United States,US,16
+2020-07,"Bolivia, Plurinational State of",BO,United States,US,25
+2020-08,"Bolivia, Plurinational State of",BO,United States,US,23
+2020-09,"Bolivia, Plurinational State of",BO,United States,US,12
+2020-10,"Bolivia, Plurinational State of",BO,United States,US,2
+2020-11,"Bolivia, Plurinational State of",BO,United States,US,1
+2019-12,Brazil,BR,United States,US,18
+2020-01,Brazil,BR,United States,US,659
+2020-02,Brazil,BR,United States,US,782
+2020-03,Brazil,BR,United States,US,630
+2020-04,Brazil,BR,United States,US,120
+2020-05,Brazil,BR,United States,US,138
+2020-06,Brazil,BR,United States,US,131
+2020-07,Brazil,BR,United States,US,153
+2020-08,Brazil,BR,United States,US,186
+2020-09,Brazil,BR,United States,US,202
+2020-10,Brazil,BR,United States,US,266
+2020-11,Brazil,BR,United States,US,311
+2020-12,Brazil,BR,United States,US,332
+2020-06,Bahamas,BS,United States,US,1
+2020-07,Bahamas,BS,United States,US,1
+2020-12,Bahamas,BS,United States,US,1
+2020-01,Belarus,BY,United States,US,2
+2020-02,Belarus,BY,United States,US,1
+2020-03,Belarus,BY,United States,US,1
+2020-05,Belarus,BY,United States,US,4
+2020-06,Belarus,BY,United States,US,5
+2020-07,Belarus,BY,United States,US,2
+2020-12,Belarus,BY,United States,US,2
+2019-12,Canada,CA,United States,US,408
+2020-01,Canada,CA,United States,US,13935
+2020-02,Canada,CA,United States,US,14091
+2020-03,Canada,CA,United States,US,11370
+2020-04,Canada,CA,United States,US,1655
+2020-05,Canada,CA,United States,US,1497
+2020-06,Canada,CA,United States,US,1945
+2020-07,Canada,CA,United States,US,2499
+2020-08,Canada,CA,United States,US,2526
+2020-09,Canada,CA,United States,US,2344
+2020-10,Canada,CA,United States,US,2511
+2020-11,Canada,CA,United States,US,2771
+2020-12,Canada,CA,United States,US,3305
+2019-12,Switzerland,CH,United States,US,12
+2020-01,Switzerland,CH,United States,US,504
+2020-02,Switzerland,CH,United States,US,474
+2020-03,Switzerland,CH,United States,US,258
+2020-04,Switzerland,CH,United States,US,23
+2020-05,Switzerland,CH,United States,US,68
+2020-06,Switzerland,CH,United States,US,74
+2020-07,Switzerland,CH,United States,US,98
+2020-08,Switzerland,CH,United States,US,124
+2020-09,Switzerland,CH,United States,US,147
+2020-10,Switzerland,CH,United States,US,148
+2020-11,Switzerland,CH,United States,US,114
+2020-12,Switzerland,CH,United States,US,107
+2019-12,China,CN,United States,US,3
+2020-01,China,CN,United States,US,65
+2020-02,China,CN,United States,US,15
+2020-03,China,CN,United States,US,35
+2020-04,China,CN,United States,US,41
+2020-05,China,CN,United States,US,115
+2020-06,China,CN,United States,US,200
+2020-07,China,CN,United States,US,291
+2020-08,China,CN,United States,US,97
+2020-09,China,CN,United States,US,83
+2020-10,China,CN,United States,US,87
+2020-11,China,CN,United States,US,113
+2020-12,China,CN,United States,US,74
+2019-12,Colombia,CO,United States,US,34
+2020-01,Colombia,CO,United States,US,1200
+2020-02,Colombia,CO,United States,US,1101
+2020-03,Colombia,CO,United States,US,853
+2020-04,Colombia,CO,United States,US,421
+2020-05,Colombia,CO,United States,US,465
+2020-06,Colombia,CO,United States,US,388
+2020-07,Colombia,CO,United States,US,410
+2020-08,Colombia,CO,United States,US,423
+2020-09,Colombia,CO,United States,US,478
+2020-10,Colombia,CO,United States,US,656
+2020-11,Colombia,CO,United States,US,680
+2020-12,Colombia,CO,United States,US,859
+2019-12,Costa Rica,CR,United States,US,34
+2020-01,Costa Rica,CR,United States,US,968
+2020-02,Costa Rica,CR,United States,US,972
+2020-03,Costa Rica,CR,United States,US,776
+2020-04,Costa Rica,CR,United States,US,116
+2020-05,Costa Rica,CR,United States,US,145
+2020-06,Costa Rica,CR,United States,US,155
+2020-07,Costa Rica,CR,United States,US,140
+2020-08,Costa Rica,CR,United States,US,171
+2020-09,Costa Rica,CR,United States,US,190
+2020-10,Costa Rica,CR,United States,US,250
+2020-11,Costa Rica,CR,United States,US,335
+2020-12,Costa Rica,CR,United States,US,486
+2020-01,Cape Verde,CV,United States,US,2
+2020-02,Cape Verde,CV,United States,US,1
+2020-03,Cape Verde,CV,United States,US,1
+2020-04,Cape Verde,CV,United States,US,3
+2020-05,Cape Verde,CV,United States,US,1
+2020-07,Cyprus,CY,United States,US,2
+2020-10,Cyprus,CY,United States,US,1
+2020-01,Czech Republic,CZ,United States,US,3
+2020-02,Czech Republic,CZ,United States,US,1
+2020-03,Czech Republic,CZ,United States,US,4
+2020-04,Czech Republic,CZ,United States,US,6
+2020-05,Czech Republic,CZ,United States,US,2
+2020-06,Czech Republic,CZ,United States,US,3
+2020-07,Czech Republic,CZ,United States,US,3
+2020-08,Czech Republic,CZ,United States,US,4
+2020-09,Czech Republic,CZ,United States,US,4
+2020-12,Czech Republic,CZ,United States,US,3
+2019-12,Germany,DE,United States,US,32
+2020-01,Germany,DE,United States,US,1903
+2020-02,Germany,DE,United States,US,1832
+2020-03,Germany,DE,United States,US,1245
+2020-04,Germany,DE,United States,US,601
+2020-05,Germany,DE,United States,US,714
+2020-06,Germany,DE,United States,US,780
+2020-07,Germany,DE,United States,US,835
+2020-08,Germany,DE,United States,US,1027
+2020-09,Germany,DE,United States,US,1015
+2020-10,Germany,DE,United States,US,1085
+2020-11,Germany,DE,United States,US,1014
+2020-12,Germany,DE,United States,US,993
+2019-12,Denmark,DK,United States,US,4
+2020-01,Denmark,DK,United States,US,152
+2020-02,Denmark,DK,United States,US,160
+2020-03,Denmark,DK,United States,US,87
+2020-04,Denmark,DK,United States,US,4
+2020-05,Denmark,DK,United States,US,5
+2020-06,Denmark,DK,United States,US,18
+2020-07,Denmark,DK,United States,US,57
+2020-08,Denmark,DK,United States,US,62
+2020-09,Denmark,DK,United States,US,82
+2020-10,Denmark,DK,United States,US,96
+2020-11,Denmark,DK,United States,US,103
+2020-12,Denmark,DK,United States,US,97
+2019-12,Dominican Republic,DO,United States,US,30
+2020-01,Dominican Republic,DO,United States,US,645
+2020-02,Dominican Republic,DO,United States,US,717
+2020-03,Dominican Republic,DO,United States,US,578
+2020-04,Dominican Republic,DO,United States,US,9
+2020-09,Dominican Republic,DO,United States,US,276
+2020-10,Dominican Republic,DO,United States,US,29
+2019-12,Ecuador,EC,United States,US,4
+2020-01,Ecuador,EC,United States,US,109
+2020-02,Ecuador,EC,United States,US,19
+2020-06,Ecuador,EC,United States,US,61
+2020-07,Ecuador,EC,United States,US,10
+2020-08,Ecuador,EC,United States,US,25
+2020-09,Ecuador,EC,United States,US,26
+2020-10,Ecuador,EC,United States,US,21
+2020-11,Ecuador,EC,United States,US,49
+2020-12,Ecuador,EC,United States,US,78
+2020-07,Estonia,EE,United States,US,1
+2020-06,Egypt,EG,United States,US,1
+2020-07,Egypt,EG,United States,US,1
+2020-09,Egypt,EG,United States,US,15
+2020-10,Egypt,EG,United States,US,4
+2019-12,Spain,ES,United States,US,20
+2020-01,Spain,ES,United States,US,501
+2020-02,Spain,ES,United States,US,592
+2020-03,Spain,ES,United States,US,450
+2020-04,Spain,ES,United States,US,57
+2020-05,Spain,ES,United States,US,89
+2020-06,Spain,ES,United States,US,91
+2020-07,Spain,ES,United States,US,122
+2020-08,Spain,ES,United States,US,146
+2020-09,Spain,ES,United States,US,189
+2020-10,Spain,ES,United States,US,178
+2020-11,Spain,ES,United States,US,185
+2020-12,Spain,ES,United States,US,164
+2019-12,Finland,FI,United States,US,3
+2020-01,Finland,FI,United States,US,56
+2020-02,Finland,FI,United States,US,63
+2020-03,Finland,FI,United States,US,37
+2020-04,Finland,FI,United States,US,1
+2020-05,Finland,FI,United States,US,6
+2020-06,Finland,FI,United States,US,10
+2020-07,Finland,FI,United States,US,16
+2020-08,Finland,FI,United States,US,20
+2020-09,Finland,FI,United States,US,17
+2020-10,Finland,FI,United States,US,22
+2020-11,Finland,FI,United States,US,18
+2020-12,Finland,FI,United States,US,14
+2019-12,France,FR,United States,US,36
+2020-01,France,FR,United States,US,1170
+2020-02,France,FR,United States,US,1152
+2020-03,France,FR,United States,US,708
+2020-04,France,FR,United States,US,106
+2020-05,France,FR,United States,US,154
+2020-06,France,FR,United States,US,248
+2020-07,France,FR,United States,US,351
+2020-08,France,FR,United States,US,408
+2020-09,France,FR,United States,US,501
+2020-10,France,FR,United States,US,545
+2020-11,France,FR,United States,US,427
+2020-12,France,FR,United States,US,390
+2019-12,United Kingdom,GB,United States,US,94
+2020-01,United Kingdom,GB,United States,US,3167
+2020-02,United Kingdom,GB,United States,US,3323
+2020-03,United Kingdom,GB,United States,US,2493
+2020-04,United Kingdom,GB,United States,US,714
+2020-05,United Kingdom,GB,United States,US,845
+2020-06,United Kingdom,GB,United States,US,928
+2020-07,United Kingdom,GB,United States,US,1014
+2020-08,United Kingdom,GB,United States,US,1071
+2020-09,United Kingdom,GB,United States,US,1134
+2020-10,United Kingdom,GB,United States,US,1208
+2020-11,United Kingdom,GB,United States,US,1251
+2020-12,United Kingdom,GB,United States,US,1267
+2020-12,Grenada,GD,United States,US,1
+2020-07,Guernsey,GG,United States,US,1
+2020-09,Guernsey,GG,United States,US,1
+2020-01,Gambia,GM,United States,US,2
+2020-04,Gambia,GM,United States,US,2
+2020-06,Gambia,GM,United States,US,1
+2019-12,Greece,GR,United States,US,1
+2020-01,Greece,GR,United States,US,23
+2020-02,Greece,GR,United States,US,31
+2020-03,Greece,GR,United States,US,12
+2020-05,Greece,GR,United States,US,1
+2020-07,Greece,GR,United States,US,5
+2020-08,Greece,GR,United States,US,5
+2020-09,Greece,GR,United States,US,5
+2020-10,Greece,GR,United States,US,5
+2020-01,Guatemala,GT,United States,US,2
+2020-02,Guatemala,GT,United States,US,2
+2020-03,Guatemala,GT,United States,US,1
+2020-05,Guatemala,GT,United States,US,16
+2020-06,Guatemala,GT,United States,US,67
+2020-07,Guatemala,GT,United States,US,158
+2020-08,Guatemala,GT,United States,US,164
+2020-09,Guatemala,GT,United States,US,173
+2020-10,Guatemala,GT,United States,US,310
+2020-11,Guatemala,GT,United States,US,362
+2020-12,Guatemala,GT,United States,US,474
+2019-12,Hong Kong,HK,United States,US,32
+2020-01,Hong Kong,HK,United States,US,894
+2020-02,Hong Kong,HK,United States,US,550
+2020-03,Hong Kong,HK,United States,US,653
+2020-04,Hong Kong,HK,United States,US,705
+2020-05,Hong Kong,HK,United States,US,953
+2020-06,Hong Kong,HK,United States,US,794
+2020-07,Hong Kong,HK,United States,US,634
+2020-08,Hong Kong,HK,United States,US,527
+2020-09,Hong Kong,HK,United States,US,565
+2020-10,Hong Kong,HK,United States,US,606
+2020-11,Hong Kong,HK,United States,US,631
+2020-12,Hong Kong,HK,United States,US,610
+2020-01,Croatia,HR,United States,US,1
+2020-06,Croatia,HR,United States,US,1
+2020-07,Croatia,HR,United States,US,4
+2020-08,Croatia,HR,United States,US,2
+2020-09,Croatia,HR,United States,US,2
+2020-10,Croatia,HR,United States,US,3
+2020-01,Hungary,HU,United States,US,12
+2020-02,Hungary,HU,United States,US,16
+2020-03,Hungary,HU,United States,US,5
+2020-04,Hungary,HU,United States,US,1
+2020-06,Hungary,HU,United States,US,2
+2020-07,Hungary,HU,United States,US,1
+2020-08,Hungary,HU,United States,US,3
+2020-09,Hungary,HU,United States,US,2
+2020-10,Hungary,HU,United States,US,5
+2020-11,Hungary,HU,United States,US,4
+2020-12,Hungary,HU,United States,US,4
+2020-06,Indonesia,ID,United States,US,1
+2019-12,Ireland,IE,United States,US,19
+2020-01,Ireland,IE,United States,US,591
+2020-02,Ireland,IE,United States,US,563
+2020-03,Ireland,IE,United States,US,496
+2020-04,Ireland,IE,United States,US,157
+2020-05,Ireland,IE,United States,US,178
+2020-06,Ireland,IE,United States,US,188
+2020-07,Ireland,IE,United States,US,236
+2020-08,Ireland,IE,United States,US,250
+2020-09,Ireland,IE,United States,US,250
+2020-10,Ireland,IE,United States,US,264
+2020-11,Ireland,IE,United States,US,218
+2020-12,Ireland,IE,United States,US,214
+2019-12,Israel,IL,United States,US,11
+2020-01,Israel,IL,United States,US,226
+2020-02,Israel,IL,United States,US,188
+2020-03,Israel,IL,United States,US,140
+2020-04,Israel,IL,United States,US,46
+2020-05,Israel,IL,United States,US,77
+2020-06,Israel,IL,United States,US,103
+2020-07,Israel,IL,United States,US,73
+2020-08,Israel,IL,United States,US,98
+2020-09,Israel,IL,United States,US,101
+2020-10,Israel,IL,United States,US,146
+2020-11,Israel,IL,United States,US,163
+2020-12,Israel,IL,United States,US,149
+2020-02,Isle of Man,IM,United States,US,1
+2019-12,India,IN,United States,US,9
+2020-01,India,IN,United States,US,203
+2020-02,India,IN,United States,US,236
+2020-03,India,IN,United States,US,168
+2020-04,India,IN,United States,US,23
+2020-05,India,IN,United States,US,31
+2020-06,India,IN,United States,US,100
+2020-07,India,IN,United States,US,139
+2020-08,India,IN,United States,US,121
+2020-09,India,IN,United States,US,120
+2020-10,India,IN,United States,US,180
+2020-11,India,IN,United States,US,152
+2020-12,India,IN,United States,US,194
+2019-12,Iceland,IS,United States,US,6
+2020-01,Iceland,IS,United States,US,141
+2020-02,Iceland,IS,United States,US,206
+2020-03,Iceland,IS,United States,US,158
+2020-04,Iceland,IS,United States,US,57
+2020-05,Iceland,IS,United States,US,73
+2020-06,Iceland,IS,United States,US,72
+2020-07,Iceland,IS,United States,US,68
+2020-08,Iceland,IS,United States,US,30
+2020-09,Iceland,IS,United States,US,39
+2020-10,Iceland,IS,United States,US,87
+2020-11,Iceland,IS,United States,US,83
+2020-12,Iceland,IS,United States,US,65
+2019-12,Italy,IT,United States,US,12
+2020-01,Italy,IT,United States,US,390
+2020-02,Italy,IT,United States,US,382
+2020-03,Italy,IT,United States,US,159
+2020-04,Italy,IT,United States,US,38
+2020-05,Italy,IT,United States,US,32
+2020-06,Italy,IT,United States,US,57
+2020-07,Italy,IT,United States,US,113
+2020-08,Italy,IT,United States,US,141
+2020-09,Italy,IT,United States,US,166
+2020-10,Italy,IT,United States,US,202
+2020-11,Italy,IT,United States,US,195
+2020-12,Italy,IT,United States,US,169
+2020-05,Jersey,JE,United States,US,1
+2020-08,Jersey,JE,United States,US,2
+2020-10,Jersey,JE,United States,US,2
+2019-12,Japan,JP,United States,US,5
+2020-01,Japan,JP,United States,US,240
+2020-02,Japan,JP,United States,US,311
+2020-03,Japan,JP,United States,US,322
+2020-04,Japan,JP,United States,US,250
+2020-05,Japan,JP,United States,US,262
+2020-06,Japan,JP,United States,US,294
+2020-07,Japan,JP,United States,US,384
+2020-08,Japan,JP,United States,US,406
+2020-09,Japan,JP,United States,US,473
+2020-10,Japan,JP,United States,US,417
+2020-11,Japan,JP,United States,US,473
+2020-12,Japan,JP,United States,US,1009
+2020-08,Kenya,KE,United States,US,1
+2019-12,"Korea, Republic of",KR,United States,US,30
+2020-01,"Korea, Republic of",KR,United States,US,921
+2020-02,"Korea, Republic of",KR,United States,US,852
+2020-03,"Korea, Republic of",KR,United States,US,632
+2020-04,"Korea, Republic of",KR,United States,US,707
+2020-05,"Korea, Republic of",KR,United States,US,870
+2020-06,"Korea, Republic of",KR,United States,US,748
+2020-07,"Korea, Republic of",KR,United States,US,692
+2020-08,"Korea, Republic of",KR,United States,US,342
+2020-09,"Korea, Republic of",KR,United States,US,860
+2020-10,"Korea, Republic of",KR,United States,US,1032
+2020-11,"Korea, Republic of",KR,United States,US,1076
+2020-12,"Korea, Republic of",KR,United States,US,1030
+2020-01,Kazakhstan,KZ,United States,US,4
+2020-02,Kazakhstan,KZ,United States,US,1
+2020-03,Kazakhstan,KZ,United States,US,2
+2020-04,Kazakhstan,KZ,United States,US,3
+2020-05,Kazakhstan,KZ,United States,US,1
+2020-07,Kazakhstan,KZ,United States,US,2
+2020-10,Kazakhstan,KZ,United States,US,1
+2020-11,Kazakhstan,KZ,United States,US,1
+2020-01,Lebanon,LB,United States,US,2
+2020-08,Lebanon,LB,United States,US,1
+2019-12,Saint Lucia,LC,United States,US,4
+2020-01,Saint Lucia,LC,United States,US,40
+2020-02,Saint Lucia,LC,United States,US,114
+2020-03,Saint Lucia,LC,United States,US,107
+2020-08,Saint Lucia,LC,United States,US,1
+2020-09,Saint Lucia,LC,United States,US,7
+2020-10,Saint Lucia,LC,United States,US,39
+2020-11,Saint Lucia,LC,United States,US,51
+2020-12,Saint Lucia,LC,United States,US,96
+2020-01,Sri Lanka,LK,United States,US,1
+2020-02,Sri Lanka,LK,United States,US,1
+2020-07,Lithuania,LT,United States,US,1
+2020-09,Lithuania,LT,United States,US,1
+2019-12,Luxembourg,LU,United States,US,1
+2020-01,Luxembourg,LU,United States,US,95
+2020-02,Luxembourg,LU,United States,US,137
+2020-03,Luxembourg,LU,United States,US,108
+2020-04,Luxembourg,LU,United States,US,58
+2020-05,Luxembourg,LU,United States,US,86
+2020-06,Luxembourg,LU,United States,US,97
+2020-07,Luxembourg,LU,United States,US,86
+2020-08,Luxembourg,LU,United States,US,91
+2020-09,Luxembourg,LU,United States,US,116
+2020-10,Luxembourg,LU,United States,US,127
+2020-11,Luxembourg,LU,United States,US,122
+2020-12,Luxembourg,LU,United States,US,122
+2020-02,Latvia,LV,United States,US,4
+2020-03,Latvia,LV,United States,US,3
+2020-05,Latvia,LV,United States,US,1
+2020-07,Latvia,LV,United States,US,1
+2020-08,Latvia,LV,United States,US,2
+2020-01,Morocco,MA,United States,US,16
+2020-02,Morocco,MA,United States,US,18
+2020-03,Morocco,MA,United States,US,8
+2020-05,Morocco,MA,United States,US,1
+2020-07,Morocco,MA,United States,US,16
+2020-08,Morocco,MA,United States,US,17
+2020-09,Morocco,MA,United States,US,10
+2020-10,Morocco,MA,United States,US,15
+2020-11,Morocco,MA,United States,US,17
+2020-12,Morocco,MA,United States,US,33
+2020-02,Macao,MO,United States,US,1
+2020-03,Macao,MO,United States,US,1
+2020-05,Macao,MO,United States,US,1
+2020-01,Malta,MT,United States,US,2
+2020-02,Malta,MT,United States,US,2
+2020-03,Malta,MT,United States,US,1
+2020-05,Malta,MT,United States,US,5
+2020-06,Malta,MT,United States,US,2
+2020-07,Malta,MT,United States,US,1
+2020-08,Malta,MT,United States,US,4
+2020-10,Malta,MT,United States,US,1
+2020-11,Malta,MT,United States,US,2
+2020-12,Malta,MT,United States,US,1
+2019-12,Mexico,MX,United States,US,11
+2020-01,Mexico,MX,United States,US,356
+2020-02,Mexico,MX,United States,US,507
+2020-03,Mexico,MX,United States,US,107
+2020-04,Mexico,MX,United States,US,47
+2020-05,Mexico,MX,United States,US,44
+2020-06,Mexico,MX,United States,US,77
+2020-07,Mexico,MX,United States,US,95
+2020-08,Mexico,MX,United States,US,98
+2020-09,Mexico,MX,United States,US,314
+2020-10,Mexico,MX,United States,US,635
+2020-11,Mexico,MX,United States,US,593
+2020-12,Mexico,MX,United States,US,1892
+2020-01,Malaysia,MY,United States,US,5
+2020-02,Malaysia,MY,United States,US,2
+2020-03,Malaysia,MY,United States,US,3
+2020-04,Malaysia,MY,United States,US,5
+2020-05,Malaysia,MY,United States,US,5
+2020-06,Malaysia,MY,United States,US,1
+2020-07,Malaysia,MY,United States,US,2
+2020-09,Malaysia,MY,United States,US,1
+2020-10,Malaysia,MY,United States,US,4
+2020-11,Malaysia,MY,United States,US,4
+2020-12,Malaysia,MY,United States,US,5
+2020-09,Nicaragua,NI,United States,US,62
+2020-10,Nicaragua,NI,United States,US,100
+2020-11,Nicaragua,NI,United States,US,81
+2020-12,Nicaragua,NI,United States,US,99
+2019-12,Netherlands,NL,United States,US,25
+2020-01,Netherlands,NL,United States,US,864
+2020-02,Netherlands,NL,United States,US,829
+2020-03,Netherlands,NL,United States,US,627
+2020-04,Netherlands,NL,United States,US,291
+2020-05,Netherlands,NL,United States,US,377
+2020-06,Netherlands,NL,United States,US,458
+2020-07,Netherlands,NL,United States,US,539
+2020-08,Netherlands,NL,United States,US,583
+2020-09,Netherlands,NL,United States,US,545
+2020-10,Netherlands,NL,United States,US,578
+2020-11,Netherlands,NL,United States,US,588
+2020-12,Netherlands,NL,United States,US,579
+2019-12,Norway,NO,United States,US,2
+2020-01,Norway,NO,United States,US,48
+2020-02,Norway,NO,United States,US,47
+2020-03,Norway,NO,United States,US,18
+2020-04,Norway,NO,United States,US,3
+2020-05,Norway,NO,United States,US,3
+2020-06,Norway,NO,United States,US,2
+2020-09,Norway,NO,United States,US,1
+2020-10,Norway,NO,United States,US,1
+2020-11,Norway,NO,United States,US,1
+2019-12,New Zealand,NZ,United States,US,8
+2020-01,New Zealand,NZ,United States,US,221
+2020-02,New Zealand,NZ,United States,US,216
+2020-03,New Zealand,NZ,United States,US,177
+2020-04,New Zealand,NZ,United States,US,44
+2020-05,New Zealand,NZ,United States,US,76
+2020-06,New Zealand,NZ,United States,US,71
+2020-07,New Zealand,NZ,United States,US,80
+2020-08,New Zealand,NZ,United States,US,56
+2020-09,New Zealand,NZ,United States,US,27
+2020-10,New Zealand,NZ,United States,US,69
+2020-11,New Zealand,NZ,United States,US,79
+2020-12,New Zealand,NZ,United States,US,75
+2020-10,Panama,PA,United States,US,33
+2020-11,Panama,PA,United States,US,229
+2020-12,Panama,PA,United States,US,365
+2020-01,Peru,PE,United States,US,317
+2020-02,Peru,PE,United States,US,463
+2020-03,Peru,PE,United States,US,245
+2020-04,Peru,PE,United States,US,91
+2020-05,Peru,PE,United States,US,136
+2020-06,Peru,PE,United States,US,101
+2020-07,Peru,PE,United States,US,100
+2020-08,Peru,PE,United States,US,81
+2020-09,Peru,PE,United States,US,69
+2020-10,Peru,PE,United States,US,70
+2020-11,Peru,PE,United States,US,224
+2020-12,Peru,PE,United States,US,249
+2019-12,French Polynesia,PF,United States,US,4
+2020-01,French Polynesia,PF,United States,US,72
+2020-02,French Polynesia,PF,United States,US,77
+2020-03,French Polynesia,PF,United States,US,52
+2020-05,French Polynesia,PF,United States,US,1
+2020-08,French Polynesia,PF,United States,US,30
+2020-09,French Polynesia,PF,United States,US,37
+2020-10,French Polynesia,PF,United States,US,48
+2020-11,French Polynesia,PF,United States,US,37
+2020-12,French Polynesia,PF,United States,US,18
+2019-12,Philippines,PH,United States,US,7
+2020-01,Philippines,PH,United States,US,115
+2020-02,Philippines,PH,United States,US,138
+2020-03,Philippines,PH,United States,US,94
+2020-04,Philippines,PH,United States,US,3
+2020-05,Philippines,PH,United States,US,31
+2020-06,Philippines,PH,United States,US,24
+2020-07,Philippines,PH,United States,US,31
+2020-08,Philippines,PH,United States,US,33
+2020-09,Philippines,PH,United States,US,35
+2020-10,Philippines,PH,United States,US,55
+2020-11,Philippines,PH,United States,US,53
+2020-12,Philippines,PH,United States,US,45
+2019-12,Poland,PL,United States,US,3
+2020-01,Poland,PL,United States,US,96
+2020-02,Poland,PL,United States,US,96
+2020-03,Poland,PL,United States,US,70
+2020-04,Poland,PL,United States,US,18
+2020-05,Poland,PL,United States,US,21
+2020-06,Poland,PL,United States,US,30
+2020-07,Poland,PL,United States,US,45
+2020-08,Poland,PL,United States,US,47
+2020-09,Poland,PL,United States,US,48
+2020-10,Poland,PL,United States,US,46
+2020-11,Poland,PL,United States,US,42
+2020-12,Poland,PL,United States,US,61
+2019-12,Portugal,PT,United States,US,6
+2020-01,Portugal,PT,United States,US,229
+2020-02,Portugal,PT,United States,US,256
+2020-03,Portugal,PT,United States,US,186
+2020-04,Portugal,PT,United States,US,5
+2020-05,Portugal,PT,United States,US,11
+2020-06,Portugal,PT,United States,US,26
+2020-07,Portugal,PT,United States,US,70
+2020-08,Portugal,PT,United States,US,95
+2020-09,Portugal,PT,United States,US,116
+2020-10,Portugal,PT,United States,US,112
+2020-11,Portugal,PT,United States,US,92
+2020-12,Portugal,PT,United States,US,96
+2019-12,Qatar,QA,United States,US,10
+2020-01,Qatar,QA,United States,US,326
+2020-02,Qatar,QA,United States,US,321
+2020-03,Qatar,QA,United States,US,268
+2020-04,Qatar,QA,United States,US,63
+2020-05,Qatar,QA,United States,US,50
+2020-06,Qatar,QA,United States,US,67
+2020-07,Qatar,QA,United States,US,156
+2020-08,Qatar,QA,United States,US,181
+2020-09,Qatar,QA,United States,US,198
+2020-10,Qatar,QA,United States,US,203
+2020-11,Qatar,QA,United States,US,216
+2020-12,Qatar,QA,United States,US,240
+2020-01,Romania,RO,United States,US,9
+2020-02,Romania,RO,United States,US,9
+2020-03,Romania,RO,United States,US,18
+2020-04,Romania,RO,United States,US,4
+2020-05,Romania,RO,United States,US,7
+2020-06,Romania,RO,United States,US,12
+2020-07,Romania,RO,United States,US,15
+2020-08,Romania,RO,United States,US,13
+2020-09,Romania,RO,United States,US,13
+2020-10,Romania,RO,United States,US,8
+2020-11,Romania,RO,United States,US,1
+2020-01,Serbia,RS,United States,US,9
+2020-02,Serbia,RS,United States,US,6
+2020-03,Serbia,RS,United States,US,6
+2020-04,Serbia,RS,United States,US,1
+2020-06,Serbia,RS,United States,US,12
+2020-07,Serbia,RS,United States,US,17
+2020-08,Serbia,RS,United States,US,15
+2020-09,Serbia,RS,United States,US,14
+2020-10,Serbia,RS,United States,US,13
+2020-11,Serbia,RS,United States,US,8
+2020-12,Serbia,RS,United States,US,12
+2019-12,Russian Federation,RU,United States,US,6
+2020-01,Russian Federation,RU,United States,US,152
+2020-02,Russian Federation,RU,United States,US,134
+2020-03,Russian Federation,RU,United States,US,141
+2020-04,Russian Federation,RU,United States,US,23
+2020-05,Russian Federation,RU,United States,US,42
+2020-06,Russian Federation,RU,United States,US,30
+2020-07,Russian Federation,RU,United States,US,25
+2020-08,Russian Federation,RU,United States,US,31
+2020-09,Russian Federation,RU,United States,US,21
+2020-10,Russian Federation,RU,United States,US,31
+2020-11,Russian Federation,RU,United States,US,35
+2020-12,Russian Federation,RU,United States,US,54
+2020-01,Saudi Arabia,SA,United States,US,17
+2020-02,Saudi Arabia,SA,United States,US,30
+2020-03,Saudi Arabia,SA,United States,US,12
+2020-04,Saudi Arabia,SA,United States,US,7
+2020-05,Saudi Arabia,SA,United States,US,3
+2020-06,Saudi Arabia,SA,United States,US,12
+2020-07,Saudi Arabia,SA,United States,US,5
+2020-08,Saudi Arabia,SA,United States,US,1
+2020-09,Saudi Arabia,SA,United States,US,2
+2020-10,Saudi Arabia,SA,United States,US,1
+2020-11,Saudi Arabia,SA,United States,US,8
+2020-12,Saudi Arabia,SA,United States,US,11
+2019-12,Sweden,SE,United States,US,3
+2020-01,Sweden,SE,United States,US,98
+2020-02,Sweden,SE,United States,US,77
+2020-03,Sweden,SE,United States,US,58
+2020-04,Sweden,SE,United States,US,6
+2020-05,Sweden,SE,United States,US,5
+2020-06,Sweden,SE,United States,US,9
+2020-07,Sweden,SE,United States,US,9
+2020-08,Sweden,SE,United States,US,7
+2020-09,Sweden,SE,United States,US,6
+2020-10,Sweden,SE,United States,US,4
+2020-11,Sweden,SE,United States,US,5
+2020-12,Sweden,SE,United States,US,5
+2019-12,Singapore,SG,United States,US,3
+2020-01,Singapore,SG,United States,US,111
+2020-02,Singapore,SG,United States,US,201
+2020-03,Singapore,SG,United States,US,107
+2020-04,Singapore,SG,United States,US,14
+2020-05,Singapore,SG,United States,US,13
+2020-06,Singapore,SG,United States,US,12
+2020-07,Singapore,SG,United States,US,24
+2020-08,Singapore,SG,United States,US,28
+2020-09,Singapore,SG,United States,US,32
+2020-10,Singapore,SG,United States,US,34
+2020-11,Singapore,SG,United States,US,41
+2020-12,Singapore,SG,United States,US,60
+2020-02,Slovenia,SI,United States,US,1
+2020-03,Slovenia,SI,United States,US,1
+2020-05,Slovenia,SI,United States,US,1
+2020-06,Slovenia,SI,United States,US,1
+2020-08,Slovenia,SI,United States,US,1
+2020-11,Slovenia,SI,United States,US,1
+2020-12,Slovenia,SI,United States,US,1
+2020-01,Slovakia,SK,United States,US,1
+2020-02,Slovakia,SK,United States,US,2
+2020-08,Slovakia,SK,United States,US,1
+2020-09,Slovakia,SK,United States,US,1
+2020-10,Slovakia,SK,United States,US,1
+2020-11,Slovakia,SK,United States,US,1
+2020-01,Senegal,SN,United States,US,11
+2020-02,Senegal,SN,United States,US,14
+2020-03,Senegal,SN,United States,US,13
+2020-04,Senegal,SN,United States,US,7
+2020-05,Senegal,SN,United States,US,4
+2020-06,Senegal,SN,United States,US,5
+2020-07,Senegal,SN,United States,US,5
+2020-06,Turks and Caicos Islands,TC,United States,US,24
+2020-07,Turks and Caicos Islands,TC,United States,US,96
+2020-08,Turks and Caicos Islands,TC,United States,US,30
+2020-09,Turks and Caicos Islands,TC,United States,US,69
+2020-10,Turks and Caicos Islands,TC,United States,US,78
+2019-12,Thailand,TH,United States,US,3
+2020-01,Thailand,TH,United States,US,16
+2020-02,Thailand,TH,United States,US,11
+2020-03,Thailand,TH,United States,US,8
+2020-04,Thailand,TH,United States,US,8
+2020-05,Thailand,TH,United States,US,4
+2020-06,Thailand,TH,United States,US,4
+2020-07,Thailand,TH,United States,US,6
+2020-08,Thailand,TH,United States,US,10
+2020-09,Thailand,TH,United States,US,8
+2020-01,Turkey,TR,United States,US,44
+2020-02,Turkey,TR,United States,US,81
+2020-03,Turkey,TR,United States,US,30
+2020-04,Turkey,TR,United States,US,45
+2020-05,Turkey,TR,United States,US,56
+2020-06,Turkey,TR,United States,US,47
+2020-07,Turkey,TR,United States,US,45
+2020-08,Turkey,TR,United States,US,40
+2020-09,Turkey,TR,United States,US,37
+2020-10,Turkey,TR,United States,US,39
+2020-11,Turkey,TR,United States,US,42
+2020-12,Turkey,TR,United States,US,43
+2020-10,Trinidad and Tobago,TT,United States,US,3
+2019-12,"Taiwan, Province of China",TW,United States,US,26
+2020-01,"Taiwan, Province of China",TW,United States,US,592
+2020-02,"Taiwan, Province of China",TW,United States,US,566
+2020-03,"Taiwan, Province of China",TW,United States,US,556
+2020-04,"Taiwan, Province of China",TW,United States,US,484
+2020-05,"Taiwan, Province of China",TW,United States,US,646
+2020-06,"Taiwan, Province of China",TW,United States,US,621
+2020-07,"Taiwan, Province of China",TW,United States,US,688
+2020-08,"Taiwan, Province of China",TW,United States,US,763
+2020-09,"Taiwan, Province of China",TW,United States,US,746
+2020-10,"Taiwan, Province of China",TW,United States,US,804
+2020-11,"Taiwan, Province of China",TW,United States,US,810
+2020-12,"Taiwan, Province of China",TW,United States,US,780
+2019-12,Ukraine,UA,United States,US,1
+2020-01,Ukraine,UA,United States,US,13
+2020-02,Ukraine,UA,United States,US,12
+2020-03,Ukraine,UA,United States,US,11
+2020-04,Ukraine,UA,United States,US,4
+2020-07,Ukraine,UA,United States,US,2
+2020-08,Ukraine,UA,United States,US,1
+2020-10,Ukraine,UA,United States,US,4
+2020-11,Ukraine,UA,United States,US,5
+2020-12,Ukraine,UA,United States,US,8
+2020-12,Uruguay,UY,United States,US,2
+2020-01,Uzbekistan,UZ,United States,US,1
+2020-03,Uzbekistan,UZ,United States,US,1
+2020-06,Uzbekistan,UZ,United States,US,2
+2020-10,Uzbekistan,UZ,United States,US,1
+2019-12,Saint Vincent and the Grenadines,VC,United States,US,1
+2020-01,Saint Vincent and the Grenadines,VC,United States,US,16
+2020-02,Saint Vincent and the Grenadines,VC,United States,US,21
+2020-03,Saint Vincent and the Grenadines,VC,United States,US,27
+2020-09,Saint Vincent and the Grenadines,VC,United States,US,1
+2020-10,Saint Vincent and the Grenadines,VC,United States,US,13
+2020-11,Saint Vincent and the Grenadines,VC,United States,US,15
+2020-12,Saint Vincent and the Grenadines,VC,United States,US,59
+2020-02,"Venezuela, Bolivarian Republic of",VE,United States,US,1
+2020-07,Viet Nam,VN,United States,US,2
+2020-10,Viet Nam,VN,United States,US,1
+2019-12,South Africa,ZA,United States,US,4
+2020-01,South Africa,ZA,United States,US,74
+2020-02,South Africa,ZA,United States,US,91
+2020-03,South Africa,ZA,United States,US,74
+2020-04,South Africa,ZA,United States,US,4
+2020-05,South Africa,ZA,United States,US,4
+2020-06,South Africa,ZA,United States,US,10
+2020-07,South Africa,ZA,United States,US,4
+2020-09,South Africa,ZA,United States,US,3
+2020-10,South Africa,ZA,United States,US,1
+2020-11,South Africa,ZA,United States,US,3
+2020-12,South Africa,ZA,United States,US,2

@@ -7,6 +7,7 @@ data/plane_data_results/*
 data/COVID-19-master/
 data/flight_volume_raw/*
 data/csse_covid_19_daily_reports/*
+deployment/google-cloud-sdk/
 # for V1 dashboard
 !data/covid_data/time_series_covid19_confirmed_global.csv
 !data/plane_data_results/end_country_us_flight_count.csv
