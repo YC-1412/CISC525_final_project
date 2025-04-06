@@ -1,6 +1,6 @@
 ## Instruction
 ### Streamlit Dashboard
-- V2
+- [V2](https://appappv2py-lyuz5i6avwj6iurz5udpkp.streamlit.app/)
 ### To run Streamlit app locally
 Clone the entire repo including the data, and run the below command in terminal
 - Option 1
