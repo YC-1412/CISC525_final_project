@@ -4,6 +4,9 @@
 *.zip
 data/covid_data/*
 data/plane_data_results/*
+data/flight_volume_raw/
+data/csse_covid_19_daily_reports/
+data/COVID-19-master/
 !data/covid_data/time_series_covid19_confirmed_global.csv
 !data/plane_data_results/end_country_us_flight_count.csv
 # Byte-compiled / optimized / DLL files
