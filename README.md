@@ -1,6 +1,8 @@
 # Instruction
 ## Streamlit Dashboard
-- [V2](https://cisc525-proj2025-spring-v2.streamlit.app/)
+- [V2](https://cisc525-proj2025-spring-v2.streamlit.app/) (read data from GitHub)
+- [V2.1](https://cisc525-proj2025-spring-v2-1.streamlit.app/) (read data from GCP). This one will fail after May 2025 when this couse ends and the cluster and bucket are deleted.
+    - For next time deployment, refer to the README under the deployment folder or the [wiki page](https://github.com/YC-1412/CISC525_final_project/wiki).
 ## If you want to run Streamlit app locally
 Clone the entire repo including the data, and run the below command in terminal
 - Option 1
