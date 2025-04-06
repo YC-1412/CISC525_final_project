@@ -1,7 +1,7 @@
-## Instruction
-### Streamlit Dashboard
+# Instruction
+## Streamlit Dashboard
 - [V2](https://cisc525-proj2025-spring-v2.streamlit.app/)
-### If you want to run Streamlit app locally
+## If you want to run Streamlit app locally
 Clone the entire repo including the data, and run the below command in terminal
 - Option 1
     ```
@@ -15,9 +15,9 @@ Clone the entire repo including the data, and run the below command in terminal
 
 ## Data Source
 - Plane data
-    - Xavier Olive, Martin Strohmeier, & Jannis Lübbe. (2023). Crowdsourced air traffic data from The OpenSky Network 2020 (v23.00) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7923702
+    - [Crowdsourced air traffic data from The OpenSky Network 2020](https://doi.org/10.5281/zenodo.7923702)
 - COVID data
-    - Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Inf Dis. 20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1
+    - [csse_covid_19_daily_reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
     - [time_series_covid19_confirmed_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
     - [time_series_covid19_confirmed_US.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv)
 - Mapping
@@ -35,16 +35,8 @@ Clone the entire repo including the data, and run the below command in terminal
 - Upload the new files in processed_data to GitHub.
 - Streamlit dashboard should updated automatically.
 
-# Todo
-- Support batch process on GCP. 
-    - Need to move the code to GCP and schedule a job.
-    - Need to set up the data connection from GCP to streamlit. Consider using the Cloud Storage for data storage.
-    - (Optional) Use a database to do this.
-- Support real-time process on GCP.
-    - Need to update process_data.sh to support realtime data process.
-- Consider doing some predictive modeling on the data.
 
-## How it works
+# How it works
 **Processing COVID cases (PySpark)**
 
 Process global daily COVID cases to monthly COVID cases. Aggregate from province/administration area level to national level, and calulcated daily change.
@@ -69,3 +61,24 @@ The input files are daily flight information about flight origin and destination
 **Dashboard**
 
 The processed data is saved to data/processed_data folder. A dashboard is deployed on Streamlit to read in the data and render the dashboard using src/streamlit_app_V2.py.
+
+
+# Todo
+- Support batch process on GCP. 
+    - Need to move the code to GCP and schedule a job.
+    - Need to set up the data connection from GCP to streamlit. Consider using the Cloud Storage for data storage.
+    - (Optional) Use a database to do this.
+- Support real-time process on GCP.
+    - Need to update process_data.sh to support realtime data process.
+- Consider doing some predictive modeling on the data.
+
+# Team members
+- Matthew Kane
+- Shengjie Fu
+- Rupa Shravya Gajula
+- Yingyu Cao
+- Ramesh Anusha Katta
+
+# Acknowledge
+- Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Inf Dis. 20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1
+- Xavier Olive, Martin Strohmeier, & Jannis Lübbe. (2023). Crowdsourced air traffic data from The OpenSky Network 2020 (v23.00) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7923702
