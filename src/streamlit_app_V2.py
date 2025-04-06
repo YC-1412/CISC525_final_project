@@ -168,6 +168,10 @@ def create_choropleth_maps(df_end, df_covid_month, start_date, end_date):
     Returns:
         go.Figure: Plotly figure object containing the choropleth maps
     """
+    # Get the maximum values across all time periods for consistent scale
+    max_flights = df_end.groupby('origin_country')['flight_count'].sum().max()
+    max_cases = df_covid_month[df_covid_month['stat'] == 'Confirmed_monthly_new']['value'].max()
+    
     # Filter flight data based on date range and group by origin country
     df_flights_filtered = df_end[
         (df_end['month'] >= start_date) & 
@@ -184,7 +188,7 @@ def create_choropleth_maps(df_end, df_covid_month, start_date, end_date):
     # Create subplot figure with two separate subplots
     fig = go.Figure()
     
-    # Add flight volume map
+    # Add flight volume map with fixed scale
     fig.add_trace(
         go.Choropleth(
             locations=df_flights_filtered['origin_country'],
@@ -192,15 +196,17 @@ def create_choropleth_maps(df_end, df_covid_month, start_date, end_date):
             locationmode='country names',
             colorscale='Viridis',
             name='Flight Volume',
+            zmin=0,
+            zmax=max_flights,
             colorbar=dict(
                 title='Flights',
-                x=0.46
+                x=0.46,
             ),
             geo='geo'
         )
     )
     
-    # Add COVID cases map
+    # Add COVID cases map with fixed scale
     fig.add_trace(
         go.Choropleth(
             locations=df_covid_filtered['country'],
@@ -208,9 +214,11 @@ def create_choropleth_maps(df_end, df_covid_month, start_date, end_date):
             locationmode='country names',
             colorscale='Reds',
             name='COVID Cases',
+            zmin=0,
+            zmax=max_cases,
             colorbar=dict(
                 title='Cases',
-                x=0.98
+                x=0.98,
             ),
             geo='geo2'
         )
@@ -223,14 +231,14 @@ def create_choropleth_maps(df_end, df_covid_month, start_date, end_date):
             showframe=False,
             showcoastlines=True,
             projection_type='equirectangular',
-            domain=dict(x=[0, 0.48], y=[0, 1])
+            domain=dict(x=[0, 0.46], y=[0, 1])
         ),
         geo2=dict(
             scope='world',
             showframe=False,
             showcoastlines=True,
             projection_type='equirectangular',
-            domain=dict(x=[0.52, 1], y=[0, 1])
+            domain=dict(x=[0.52, 0.98], y=[0, 1])
         ),
         width=1200,
         height=500,
