@@ -1,7 +1,7 @@
 ## Instruction
 ### Streamlit Dashboard
 - [V2](https://cisc525-proj2025-spring-v2.streamlit.app/)
-### To run Streamlit app locally
+### If you want to run Streamlit app locally
 Clone the entire repo including the data, and run the below command in terminal
 - Option 1
     ```
@@ -43,3 +43,29 @@ Clone the entire repo including the data, and run the below command in terminal
 - Support real-time process on GCP.
     - Need to update process_data.sh to support realtime data process.
 - Consider doing some predictive modeling on the data.
+
+## How it works
+**Processing COVID cases (PySpark)**
+
+Process global daily COVID cases to monthly COVID cases. Aggregate from province/administration area level to national level, and calulcated daily change.
+
+The input files are daily cumulative COVID Confirmed, Deaths, Recovered, and Active case count by country, province and administration area. This script load in the daily file, aggregate it to the country-month level, producing both cumulative and newly COVID Confirmed, Deaths, Recovered, and Active case count.
+- Data comes from [COVID-19 case data from Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
+- Data cleaning
+    - There are some daily files that does not come with the consistent schema, e.g. missing `Admin2` and `Province_State`, and have `Country/Region` instead of `Country_Region`. Those are a small portion of the data and hard to identify because all daily file has the same name. We just skip those files in this analysis.
+    - There are 487 (0.011%) records with abnormal dates, e.g. 2682-01-01, or `Country_Region` name as numbers. Those records are dropped.
+    - The daily file could have records not on that date. For example, a 01-01-2021 file can have records for 2020 or Apr 2021, maybe because it is the last updated date.
+
+**Processing flight volume data (PySpark)**
+
+Map airport names to nations, and aggreate flight records to daily level for each country.
+
+The input files are daily flight information about flight origin and destination by airport. This script load in the data, map airport to country, and aggregate flight volume to the country-month level. It can either aggregate by origin or desination country.
+- Data comes from https://zenodo.org/records/7923702
+    - The monthly file could have records not in that month. For example, a Jan 2021 file can have records for 2020, reason unknown.
+- `airports.csv` comes from [https://github.com/mborsetti/airportsdata](https://github.com/mborsetti/airportsdata/blob/main/airportsdata/airports.csv)
+- `countries.csv` comes from [radcliff/wikipedia-iso-country-codes.csv](https://gist.github.com/radcliff/f09c0f88344a7fcef373#file-wikipedia-iso-country-codes-csv)
+
+**Dashboard**
+
+The processed data is saved to data/processed_data folder. A dashboard is deployed on Streamlit to read in the data and render the dashboard using src/streamlit_app_V2.py.
