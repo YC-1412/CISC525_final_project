@@ -39,7 +39,7 @@ Clone the entire repo including the data, and run the below command in terminal
 # How it works
 **Processing COVID cases (PySpark)**
 
-Process global daily COVID cases to monthly COVID cases. Aggregate from province/administration area level to national level, and calulcated daily change.
+Process global daily COVID cases to monthly COVID cases. Aggregate from province/administration area level to national level, and calculate daily change.
 
 The input files are daily cumulative COVID Confirmed, Deaths, Recovered, and Active case count by country, province and administration area. This script load in the daily file, aggregate it to the country-month level, producing both cumulative and newly COVID Confirmed, Deaths, Recovered, and Active case count.
 - Data comes from [COVID-19 case data from Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19).
