@@ -378,7 +378,7 @@ def main(data_path: str):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='COVID-19 and Flight Volume Analysis Dashboard')
-    parser.add_argument('--data_path', type=str, default='../data', required=False, help='Path to the data directory')
+    parser.add_argument('--data_path', type=str, default='./data', required=False, help='Path to the data directory')
     
     args = parser.parse_args(sys.argv[1:])
     
