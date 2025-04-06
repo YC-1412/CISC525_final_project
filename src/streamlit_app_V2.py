@@ -178,7 +178,7 @@ def create_choropleth_maps(df_end, df_covid_month, start_date, end_date):
     df_covid_filtered = df_covid_month[
         (df_covid_month['month'] >= start_date) & 
         (df_covid_month['month'] <= end_date) &
-        (df_covid_month['stat'] == 'Confirmed_cumulative')
+        (df_covid_month['stat'] == 'Confirmed_monthly_new')
     ].groupby('country')['value'].max().reset_index()
     
     # Create subplot figure with two separate subplots
@@ -246,7 +246,7 @@ def create_choropleth_maps(df_end, df_covid_month, start_date, end_date):
                 font=dict(size=14)
             ),
             dict(
-                text=f'COVID Cases by Country ({start_date} to {end_date})',
+                text=f'COVID Cases (monthly new) by Country ({start_date} to {end_date})',
                 showarrow=False,
                 x=0.725,
                 y=1.1,
@@ -306,8 +306,8 @@ def main(data_path: str):
         st.header('US COVID Stats vs Flight Volume Over Time')
         
         # Add dropdown for stat selection
-        stats = ['Confirmed_cumulative', 'Deaths_cumulative', 'Recovered_cumulative', 'Active_cumulative',
-                 'Confirmed_monthly_new', 'Deaths_monthly_new', 'Recovered_monthly_new', 'Active_monthly_new']
+        stats = ['Confirmed_monthly_new', 'Deaths_monthly_new', 'Recovered_monthly_new', 'Active_monthly_new',
+                 'Confirmed_cumulative', 'Deaths_cumulative', 'Recovered_cumulative', 'Active_cumulative']
         selected_stat = st.selectbox(
             'Select COVID Statistic',
             stats,
@@ -316,11 +316,12 @@ def main(data_path: str):
 
         # Add timeline selector for tab 1
         all_months = sorted(df_US['month'].unique())
+        _travel_ban_time = '2020-08'
         try:
-            default_end_idx = all_months.index('202112')
+            default_end_idx = all_months.index(_travel_ban_time)
         except ValueError:
             default_end_idx = len(all_months) - 1
-            
+
         start_idx, end_idx = st.select_slider(
             'Select Date Range',
             options=range(len(all_months)),
