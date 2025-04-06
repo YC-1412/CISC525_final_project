@@ -2,8 +2,9 @@
 This is a streamlit app that allows you to visualize the relationship 
 between COVID-19 cases and flight volumes in the United States over time.
 
-Run the app with:
-streamlit run ./src/streamlit_app_V2.py -- --data_path <path_to_data_folder>
+Deployed on GitHub and load data from GCS.
+
+View the app at: https://cisc525-proj2025-spring-v2-1.streamlit.app/
 """
 
 import streamlit as st
@@ -15,7 +16,7 @@ import plotly.graph_objects as go
 import argparse
 import sys
 import os
-import gcsfs
+# import gcsfs
 from st_files_connection import FilesConnection
 
 
