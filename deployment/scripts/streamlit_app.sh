@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Navigate to the project root directory
+# Navigate to the project deployment directory
 cd ..
 
 # Run the Streamlit app
-streamlit run ./src/streamlit_app_V2.py -- --data_path ./data 
+streamlit run ./src/streamlit_app_V2_1.py 
 
 # # Navigate to the directory containing your script
 # cd scripts
@@ -12,5 +12,5 @@ streamlit run ./src/streamlit_app_V2.py -- --data_path ./data
 # # Make the script executable
 # chmod +x streamlit_app.sh
 
-# # Or if you're in the project root directory:
+# # Or if you're in the project deployment directory:
 # chmod +x scripts/streamlit_app.sh
