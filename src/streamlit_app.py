@@ -3,7 +3,7 @@ This is a streamlit app that allows you to visualize the relationship
 between COVID-19 cases and flight volumes in the United States over time.
 
 Run the app with:
-streamlit run streamlit_app.py -- --data_path <path_to_data_folder>
+streamlit run ./src/streamlit_app.py -- --data_path <path_to_data_folder>
 """
 
 import streamlit as st

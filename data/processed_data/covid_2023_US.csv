@@ -1,0 +1,10 @@
+year_month,Country_Region,Confirmed_cumulative,Deaths_cumulative,Recovered_cumulative,Active_cumulative,Confirmed_monthly_new,Deaths_monthly_new,Recovered_monthly_new,Active_monthly_new
+2020-08,US,10336,204,,,-10336,-204,,
+2020-12,US,0,0,,,-884,-68,,
+2021-07,US,0,0,,,0,0,,
+2021-10,US,29512,0,,,29512,0,,
+2022-09,US,0,0,,,-29512,0,,
+2022-10,US,0,0,,,0,0,,
+2023-01,US,102306972,1107915,,,3050090440,33022030,,
+2023-02,US,205696837,2228871,,,2883132336,31236019,,
+2023-03,US,103802116,1123833,,,1035745352,11212766,,
